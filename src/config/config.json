@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "IDEAL AGENT Real Estate Blog",
+    "base_url": "https://blog.idealagent.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/favicon.ico",
+    "logo": "https://static.idealagent.com/web/ideal-agent-blog-logo-lg.png",
     "logo_width": "200",
-    "logo_height": "34",
+    "logo_height": "39",
     "logo_text": "Bookworm Light"
   },
 
@@ -17,19 +17,19 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "IDEAL AGENT",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "IDEAL AGENT BLOG"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025 IDEAL AGENT"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "",
+    "email": "",
+    "phone": ""
   }
 }

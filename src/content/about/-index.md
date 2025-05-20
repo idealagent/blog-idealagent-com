@@ -1,11 +1,11 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
-image: "/images/author.png"
+title: "About Us"
+meta_title: "About Us | Ideal Agent"
+image: "/images/about/about-us-steve-johnston.webp"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "What We Do"
   items:
   - title: "Content Writing"
     description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."

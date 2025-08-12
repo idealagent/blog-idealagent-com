@@ -1,0 +1,23 @@
+---
+import Base from "@/layouts/Base.astro";
+import SearchBarVue from "@/layouts/SearchBarVue.vue"
+import { getSinglePage } from "@/lib/contentParser.astro";
+
+// Retrieve all articles
+const posts = await getSinglePage("posts");
+
+// List of items to search in
+const searchList = posts.map((item) => ({
+  slug: item.id,
+  data: item.data,
+  content: item.body,
+}));
+---
+
+<Base title={`Search`}>
+  <section class="section">
+    <div class="container">
+      <SearchBarVue client:load searchList={searchList} />
+    </div>
+  </section>
+</Base>

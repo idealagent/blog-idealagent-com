@@ -8,6 +8,8 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 
+import vue from "@astrojs/vue";
+
 let highlighter;
 async function getHighlighter() {
   if (!highlighter) {
@@ -23,21 +25,16 @@ export default defineConfig({
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
-  integrations: [
-    react(),
-    sitemap(),
-    AutoImport({
-      imports: [
-        "@/shortcodes/Button",
-        "@/shortcodes/Accordion",
-        "@/shortcodes/Notice",
-        "@/shortcodes/Video",
-        "@/shortcodes/Tabs",
-        "@/shortcodes/Tab",
-      ],
-    }),
-    mdx(),
-  ],
+  integrations: [react(), sitemap(), AutoImport({
+    imports: [
+      "@/shortcodes/Button",
+      "@/shortcodes/Accordion",
+      "@/shortcodes/Notice",
+      "@/shortcodes/Video",
+      "@/shortcodes/Tabs",
+      "@/shortcodes/Tab",
+    ],
+  }), mdx(), vue()],
   markdown: {
     remarkPlugins: [
       remarkToc,

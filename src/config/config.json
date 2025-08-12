@@ -5,9 +5,9 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
-    "logo": "https://static.idealagent.com/web/ideal-agent-blog-logo-lg.png",
-    "logo_width": "200",
-    "logo_height": "39",
+    "logo": "/images/logo.png",
+    "logo_width": "283",
+    "logo_height": "63",
     "logo_text": "Bookworm Light"
   },
 

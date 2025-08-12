@@ -13,7 +13,7 @@
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "View Posts By",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -28,10 +28,6 @@
         {
           "name": "Tags",
           "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
         },
         {
           "name": "Privacy Policy",

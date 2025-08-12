@@ -1,39 +1,32 @@
 ---
-const { source, className } = Astro.props;
+import { IconTumblr } from "@iconify-prerendered/vue-simple-icons"
+const { source, className } = Astro.props
 
 import {
-  IoCall,
-  IoGlobeOutline,
-  IoLocation,
-  IoLogoBehance,
-  IoLogoBitbucket,
-  IoLogoCodepen,
-  IoLogoDiscord,
-  IoLogoDribbble,
-  IoLogoFacebook,
-  IoLogoFoursquare,
-  IoLogoGithub,
-  IoLogoGitlab,
-  IoLogoInstagram,
-  IoLogoLinkedin,
-  IoLogoMastodon,
-  IoLogoMedium,
-  IoLogoPinterest,
-  IoLogoReddit,
-  IoLogoRss,
-  IoLogoSkype,
-  IoLogoSlack,
-  IoLogoSnapchat,
-  IoLogoSoundcloud,
-  IoLogoTiktok,
-  IoLogoTumblr,
-  IoLogoTwitter,
-  IoLogoVimeo,
-  IoLogoVk,
-  IoLogoWhatsapp,
-  IoLogoYoutube,
-  IoMail,
-} from "react-icons/io5";
+  IconFacebook,
+  IconX,
+  IconInstagram,
+  IconYoutube,
+  IconGithub,
+  IconGitlab,
+  IconDiscord,
+  IconSlack,
+  IconMedium,
+  IconBitbucket,
+  IconDribbble,
+  IconBehance,
+  IconPinterest,
+  IconSoundcloud,
+  IconReddit,
+  IconVk,
+  IconWhatsapp,
+  IconSnapchat,
+  IconVimeo,
+  IconTiktok,
+  IconFoursquare,
+  IconRss
+} from "@iconify-prerendered/vue-simple-icons"
+import { IconLinkedin } from "@iconify-prerendered/vue-lucide"
 
 const {
   facebook,
@@ -66,8 +59,8 @@ const {
   phone,
   address,
   skype,
-  website,
-} = source;
+  website
+} = source
 ---
 
 <ul class={className}>
@@ -80,7 +73,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoFacebook />
+          <IconFacebook />
         </a>
       </li>
     )
@@ -94,7 +87,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoTwitter />
+          <IconX />
         </a>
       </li>
     )
@@ -108,7 +101,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoMastodon />
+
         </a>
       </li>
     )
@@ -122,7 +115,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoInstagram />
+          <IconInstagram />
         </a>
       </li>
     )
@@ -136,7 +129,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoYoutube />
+          <IconYoutube />
         </a>
       </li>
     )
@@ -150,7 +143,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoLinkedin />
+          <IconLinkedin />
         </a>
       </li>
     )
@@ -164,7 +157,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoGithub />
+          <IconGithub />
         </a>
       </li>
     )
@@ -178,7 +171,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoGitlab />
+          <IconGitlab />
         </a>
       </li>
     )
@@ -192,7 +185,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoDiscord />
+          <IconDiscord />
         </a>
       </li>
     )
@@ -206,7 +199,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoSlack />
+          <IconSlack />
         </a>
       </li>
     )
@@ -220,7 +213,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoMedium />
+          <IconMedium />
         </a>
       </li>
     )
@@ -234,7 +227,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoCodepen />
+
         </a>
       </li>
     )
@@ -248,7 +241,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoBitbucket />
+          <IconBitbucket />
         </a>
       </li>
     )
@@ -262,7 +255,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoDribbble />
+          <IconDribbble />
         </a>
       </li>
     )
@@ -276,7 +269,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoBehance />
+          <IconBehance />
         </a>
       </li>
     )
@@ -290,7 +283,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoPinterest />
+          <IconPinterest />
         </a>
       </li>
     )
@@ -304,7 +297,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoSoundcloud />
+          <IconSoundcloud />
         </a>
       </li>
     )
@@ -318,7 +311,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoTumblr />
+          <IconTumblr />
         </a>
       </li>
     )
@@ -332,7 +325,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoReddit />
+          <IconReddit />
         </a>
       </li>
     )
@@ -346,7 +339,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoVk />
+          <IconVk />
         </a>
       </li>
     )
@@ -360,7 +353,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoWhatsapp />
+          <IconWhatsapp />
         </a>
       </li>
     )
@@ -374,7 +367,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoSnapchat />
+          <IconSnapchat />
         </a>
       </li>
     )
@@ -388,7 +381,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoVimeo />
+          <IconVimeo />
         </a>
       </li>
     )
@@ -402,7 +395,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoTiktok />
+          <IconTiktok />
         </a>
       </li>
     )
@@ -416,7 +409,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoFoursquare />
+          <IconFoursquare />
         </a>
       </li>
     )
@@ -430,7 +423,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoSkype />
+
         </a>
       </li>
     )
@@ -444,7 +437,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoGlobeOutline />
+
         </a>
       </li>
     )
@@ -458,7 +451,7 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLogoRss />
+          <IconRss />
         </a>
       </li>
     )
@@ -467,7 +460,7 @@ const {
     email && (
       <li class="inline-block">
         <a aria-label="email" href={`mailto:${email}`}>
-          <IoMail />
+
         </a>
       </li>
     )
@@ -476,7 +469,6 @@ const {
     phone && (
       <li class="inline-block">
         <a aria-label="telephone" href={`tel:${phone}`}>
-          <IoCall />
         </a>
       </li>
     )
@@ -490,7 +482,6 @@ const {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          <IoLocation />
         </a>
       </li>
     )

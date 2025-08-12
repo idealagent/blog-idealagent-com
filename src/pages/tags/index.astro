@@ -3,7 +3,7 @@ import Base from "@/layouts/Base.astro";
 import { getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { humanize } from "@/lib/utils/textConverter";
 
-import { FaHashtag } from "react-icons/fa";
+import { IconTags, IconTag } from "@iconify-prerendered/vue-lucide";
 
 const tags = await getTaxonomy("posts", "tags");
 ---
@@ -15,13 +15,13 @@ const tags = await getTaxonomy("posts", "tags");
       <ul class="space-x-4">
         {
           tags.map((tag) => (
-            <li class="inline-block">
+            <li class="inline-block my-1">
               <a
                 href={`/tags/${tag}`}
                 class="rounded-lg bg-light px-4 py-2 text-dark transition hover:bg-primary hover:text-white flex items-center group"
               >
-                <FaHashtag className="mr-1 text-primary group-hover:text-white transition" />
-                {humanize(tag || "")}
+                <IconTag />
+                <p class="px-1">{humanize(tag || "")}</p>
               </a>
             </li>
           ))

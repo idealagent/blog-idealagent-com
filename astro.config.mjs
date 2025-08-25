@@ -1,21 +1,21 @@
-import mdx from "@astrojs/mdx";
-import sitemap from "@astrojs/sitemap";
-import tailwindcss from "@tailwindcss/vite";
-import AutoImport from "astro-auto-import";
-import { defineConfig } from "astro/config";
-import remarkCollapse from "remark-collapse";
-import remarkToc from "remark-toc";
-import config from "./src/config/config.json";
+import mdx from "@astrojs/mdx"
+import sitemap from "@astrojs/sitemap"
+import tailwindcss from "@tailwindcss/vite"
+import AutoImport from "astro-auto-import"
+import { defineConfig } from "astro/config"
+import remarkCollapse from "remark-collapse"
+import remarkToc from "remark-toc"
+import config from "./src/config/config.json"
 
-import vue from "@astrojs/vue";
+import vue from "@astrojs/vue"
 
-let highlighter;
+let highlighter
 async function getHighlighter() {
   if (!highlighter) {
-    const { getHighlighter } = await import("shiki");
-    highlighter = await getHighlighter({ theme: "one-dark-pro" });
+    const { getHighlighter } = await import("shiki")
+    highlighter = await getHighlighter({ theme: "one-dark-pro" })
   }
-  return highlighter;
+  return highlighter
 }
 
 // https://astro.build/config
@@ -24,16 +24,7 @@ export default defineConfig({
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
-  integrations: [sitemap(), AutoImport({
-    imports: [
-      "@/shortcodes/Button",
-      "@/shortcodes/Accordion",
-      "@/shortcodes/Notice",
-      "@/shortcodes/Video",
-      "@/shortcodes/Tabs",
-      "@/shortcodes/Tab",
-    ],
-  }), mdx(), vue()],
+  integrations: [sitemap(), mdx(), vue()],
   markdown: {
     remarkPlugins: [
       remarkToc,
@@ -51,4 +42,4 @@ export default defineConfig({
     extendDefaultPlugins: true,
     highlighter: getHighlighter,
   },
-});
+})

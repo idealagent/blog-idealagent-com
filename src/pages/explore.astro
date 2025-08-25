@@ -1,0 +1,18 @@
+---
+
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+// const { title, meta_title, image, what_i_do } = entry.data;
+const title = "Explore Our Real Estate Knowledge"
+const meta_title = ""
+---
+<Base title={title} meta_title={meta_title}>
+  <section class="section">
+    <div class="container">
+      <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
+    </div>
+
+  </section>
+</Base>

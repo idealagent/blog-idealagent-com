@@ -7,6 +7,7 @@ image: "/images/posts/08.jpg"
 categories: ["selling", "in the news"]
 authors: ["Steve Johnston"]
 tags: ["selling", "clear cooperation"]
+slug: zillow-clear-cooperation-policy
 draft: false
 ---
 # Zillow’s Clear Cooperation Policy: A Bold Step Toward Transparency in Real Estate

@@ -5,49 +5,31 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Selling",
+      "url": "/categories/selling"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Buying",
+      "url": "/categories/buying"
     },
     {
-      "name": "View Posts By",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
+          "name": "Visit IDEAL AGENT\u00AE",
+          "url": "https://idealagent.com?source=blog",
+          "target": "_new"
+    },
+    {
+      "name": "Explore",
+      "url": "/explore"
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Selling",
+      "url": "/categories/selling"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Buying",
+      "url": "/categories/buying"
     },
     {
       "name": "Privacy Policy",

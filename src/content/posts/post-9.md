@@ -5,7 +5,7 @@ image: "/images/posts/post9.jpg"
 authors: ["Research Team"]
 draft: false
 categories: 
-  - "home-selling"
+  - "Selling"
 tags: 
   - "home-buying"
   - "home-selling"

@@ -1,11 +1,11 @@
 ---
-import config from "@/config/config.json";
-import { getSinglePage } from "@/lib/contentParser.astro";
-import dateFormat from "@/lib/utils/dateFormat";
-import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
-import { Image } from "astro:assets";
-import type { CollectionEntry } from "astro:content";
-import { IconCalendar1, IconTags } from "@iconify-prerendered/vue-lucide";
+import config from "@/config/config.json"
+import { getSinglePage } from "@/lib/contentParser.astro"
+import dateFormat from "@/lib/utils/dateFormat"
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter"
+import { Image } from "astro:assets"
+import type { CollectionEntry } from "astro:content"
+import { IconCalendar1, IconTags } from "@iconify-prerendered/vue-lucide"
 
 type Props = {
   posts: CollectionEntry<"posts">[];
@@ -13,9 +13,9 @@ type Props = {
   fluid?: boolean;
 };
 
-const authors = await getSinglePage("authors");
-const { summary_length } = config.settings;
-const { className, posts, fluid } = Astro.props;
+const authors = await getSinglePage("authors")
+const { summary_length } = config.settings
+const { className, posts, fluid } = Astro.props
 ---
 
 <div
@@ -107,5 +107,5 @@ const { className, posts, fluid } = Astro.props;
         </p>
       </div>
     ))
-  }
-</div>
+    }
+    </div>

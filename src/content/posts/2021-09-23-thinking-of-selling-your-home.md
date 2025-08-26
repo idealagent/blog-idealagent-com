@@ -1,11 +1,11 @@
 ---
 title: "Thinking of Selling Your Home? So Were These Sellers from All Across the U.S.!"
-slug: "thinking-of-selling-your-home"
 image: "/images/posts/testimonials.jpg"
 date: 2021-09-23
-slug_category: "testimonials"
 categories: 
   - "testimonials"
+slug_category: "testimonials"
+slug: "thinking-of-selling-your-home"
 ---
 
 Selling a home is one of the most important decisions a homeowner can make. Not only can the process become emotional, but it can be difficult to navigate if you don’t have expert help. [Tara-Nicholle Nelson](https://www.hgtv.com/lifestyle/real-estate/drama-free-real-estate-top-10-ways-to-sell-a-home-without-all-the-drama) from [HGTV](https://www.hgtv.com/lifestyle/real-estate/drama-free-real-estate-top-10-ways-to-sell-a-home-without-all-the-drama) said it best when she noted, “Selling a home can put you on an emotional roller coaster. At the top you feel excited and proud that your place looks the best it ever has and relieved when it finally sells. At the bottom, though, you might be disappointed at the offers that come in or even desperate when you don’t get any offers at all. What if the buyer’s deal falls through? Now, that’s a potential freak-out moment!” 

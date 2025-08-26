@@ -1,6 +1,7 @@
 ---
 title: "Real estate stocks are suddenly and finally on fire"
 date: 2023-05-12
+image: "../images/posts/real-estate-stocks-are-suddenly-and-finally-on-fire.jpg"
 categories: 
   - "news"
 slug_category: "news"
@@ -9,7 +10,6 @@ slug: "real-estate-stocks-are-suddenly-and-finally-on-fire"
 
 Redfin, Opendoor and Compass have all seen their share prices rally in recent days — suggesting that after years of the cold shoulder investors are warming to the sector
 
-![Real estate stocks are suddenly and finally on fire](../images/posts/wall-street-bull-2-1024x576.jpeg)
 
 Stable Diffusion
 

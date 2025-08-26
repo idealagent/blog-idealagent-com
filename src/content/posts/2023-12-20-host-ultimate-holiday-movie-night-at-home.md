@@ -1,6 +1,7 @@
 ---
 title: "How to Host the Ultimate Holiday Movie Night at Home! #2"
 date: 2023-12-20
+image: "../images/posts/shutterstock_1275231859.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -13,7 +14,6 @@ Are you looking for festive ways to celebrate the holidays with friends and fami
 
 Does it get any more festive than holiday pajamas? A movie night at home during the holidays is the perfect time to ask your guests to wear their most festive pj’s! You could even have a vote for best pj’s, and the winner goes home with hot cocoa or cookie mix!
 
-![](../images/posts/shutterstock_1275231859.jpg)
 
 ### **Snack Station**
 

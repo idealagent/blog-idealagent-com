@@ -1,6 +1,7 @@
 ---
 title: "10 Tips to Get Your Home Fall Ready - Tips and Tricks"
 date: 2022-09-02
+image: "../images/posts/Thermostat-1024x577.png"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -19,7 +20,6 @@ Cleaning your gutters before the weather turns should be at the top of your prio
 
 If your windows and doors are not sealed properly, your home could lose a lot of its heat to the cooler weather- which is not comfortable or cheap! One of the first steps to getting your home ready for the cold is to be mindful of any damage to windows and door frames and to check for drafts. The easiest way to do so is by running your hand by the frames to feel for cold spots. If you happen to find an air leak, there are many effective solutions such as weatherstripping, caulking, window inserts, and more.   
 
-![](../images/posts/Thermostat-1024x577.png)
 
 ### ****3\. Reprogram your Thermostat****  
 

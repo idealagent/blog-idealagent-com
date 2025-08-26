@@ -1,15 +1,17 @@
 ---
 title: "IDEAL AGENT® RANKED #1 REAL ESTATE COMPANY ON INC. 5000 LIST"
 date: 2022-08-16
+image: "../images/posts/ia_logo.png"
 categories: 
   - "news"
 slug_category: "news"
 slug: "ideal-agent-ranked-1-real-estate-company-inc5000-list"
 ---
 
-____Named #73 Nationwide due to 5,514% 3-Year Growth____
+Named #73 Nationwide due to 5,514% 3-Year Growth
 
-****Tampa, FL, August 16, 2022**—** Today, Inc. Magazine revealed its annual list of the nation’s fastest growing private companies, and [IDEAL](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500) [AGENT](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500)[®](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500), the premier full-service real estate technology company, is the number 1 Real Estate company, ranking number 2 in Tampa and in the real estate category, number 11 in Florida, and number 73 nationwide across all categories on the list due to its 5,514%, 3-year growth.  This year’s list is proven to be winning in a time of change and achieving spectacular growth.  Among the 5,000 companies, the average median three-year growth rate soared 230%, added 1,178,302 jobs and generated $317.2 billion in total revenue.  
+Tampa, FL, August 16, 2022
+Today, Inc. Magazine revealed its annual list of the nation’s fastest growing private companies, and [IDEAL](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500) [AGENT](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500)[®](https://www.idealagent.com?utm_source=blog&utm_medium=pr&utm_campaign=inc500), the premier full-service real estate technology company, is the number 1 Real Estate company, ranking number 2 in Tampa and in the real estate category, number 11 in Florida, and number 73 nationwide across all categories on the list due to its 5,514%, 3-year growth.  This year’s list is proven to be winning in a time of change and achieving spectacular growth.  Among the 5,000 companies, the average median three-year growth rate soared 230%, added 1,178,302 jobs and generated $317.2 billion in total revenue.  
   
 _“We’re thrilled to make this prestigious ranking of the nation’s fastest-growing private companies, said Steve Johnston, Founder & CEO of IDEAL AGENT®. "This award is a testament to the hard work and resilience of everyone at IDEAL AGENT®. We recognize the housing market is shifting and poised to help fight rising interest rates with lower commissions, saving clients’ money and time with their real estate transaction due to our proprietary technology platform."_  
   

@@ -1,6 +1,7 @@
 ---
 title: "The Tampa Bay Business Journal Reported on Our Recent Funding Deal"
 date: 2021-10-04
+image: "../images/posts/ia_logo.png"
 categories: 
   - "news"
 slug_category: "news"

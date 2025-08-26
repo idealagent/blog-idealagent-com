@@ -1,6 +1,7 @@
 ---
 title: "House Hacking Guide - How You Can House Hack this Month"
 date: 2024-02-16
+image: "../images/posts/Picture2-scaled.jpg"
 categories: 
   - "real-estate-investing"
 tags: 
@@ -18,7 +19,6 @@ In this blog, we'll walk you through the keys to successful house hacking, from 
 
 Sometimes called rent hacking, house hacking requires in-depth knowledge of finances and real estate. At its core, it means leveraging rental income to offset your housing expenses — meaning your residence can also serve as a source of passive income.  
 
-![](../images/posts/Picture2-scaled.jpg)
 
 ### **Find a Property** 
 

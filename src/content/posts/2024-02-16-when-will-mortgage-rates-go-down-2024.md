@@ -1,6 +1,7 @@
 ---
 title: "When Will Mortgage Rates Go Down?"
 date: 2024-02-16
+image: "../images/posts/image-5.jpeg"
 categories: 
   - "home-selling"
 tags: 
@@ -25,7 +26,6 @@ To understand the nuances of these effects, let's talk about how mortgage rates 
 
 ## **How are Mortgage Rates Determined?**  
 
-![](../images/posts/image-5.jpeg)
 
 When we see mortgage rates rise and fall, we think of them as a single percentage. But really, they're influenced by several factors, from the health of the overall economy to your personal finances. We'll cover the most influential pieces of the puzzle. 
 

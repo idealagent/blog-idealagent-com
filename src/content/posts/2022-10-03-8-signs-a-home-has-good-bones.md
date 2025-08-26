@@ -1,6 +1,7 @@
 ---
 title: "8 Signs a Home Has “Good Bones”"
 date: 2022-10-03
+image: "../images/posts/image-19.jpeg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -20,7 +21,6 @@ A solid foundation does more than support the structure of a house. It insulates
 
 A roof quite literally completes a home. Without a roof, the structure of a house would eventually crumble to pieces. So, having a sturdy roof over your head is crucial to feeling safe and comfortable inside your home. You can typically tell when a roof is deteriorating, cracking, or sagging just by looking at it. However, we recommend having a professional evaluate the roofing of a house before you buy it- because replacing a roof is neither ideal nor economical.   
 
-![](../images/posts/image-19.jpeg)
 
 ### **3\. Practical Floor Plan**    
 

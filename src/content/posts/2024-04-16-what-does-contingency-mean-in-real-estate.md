@@ -1,6 +1,7 @@
 ---
 title: "What is a Contingency in Real Estate?"
 date: 2024-04-16
+image: "../images/posts/Picture2-2.jpg"
 categories: 
   - "home-selling"
 tags: 
@@ -23,7 +24,6 @@ The Oxford Dictionary defines contingency as “a future event or circumstance w
 
 The **contingency definition in a real estate contract** is a condition that must be fulfilled for the transaction to move forward. Consider it a safety net, ensuring specific criteria are met before the sale concludes.
 
-### ![Couple reviewing lawyer documents](../images/posts/Picture2-2.jpg)
 
 ### How Does a Contingent Offer Work?
 

@@ -1,13 +1,14 @@
 ---
 title: "Ideal Agent to launch Series B with eye on IPO, CEO says"
 date: 2022-10-21
+image: "../images/posts/ideal-agent-to-launch-series-b-with-eye-on-ipo.jpg"
 categories: 
   - "news"
 slug_category: "news"
 slug: "ideal-agent-to-launch-series-b-with-eye-on-ipo"
 ---
 
-****[Ideal Agent](https://idealagent.com/?utm_source=blog&utm_medium=press_release&utm_campaign=seriesb),**—** a real estate technology company, is launching its Series B in a couple of weeks, said Steve Johnston, founder and CEO.  
+[Ideal Agent](https://idealagent.com/?utm_source=blog&utm_medium=press_release&utm_campaign=seriesb), a real estate technology company, is launching its Series B in a couple of weeks, said Steve Johnston, founder and CEO.  
   
 The Tampa, Florida based real estate referral network has engaged a banker to assist with the USD 50m to USD 100m round, said Johnston, declining to name the firm.  
   

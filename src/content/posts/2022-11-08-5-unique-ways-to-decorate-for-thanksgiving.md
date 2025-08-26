@@ -1,6 +1,7 @@
 ---
 title: "5 Unique Ways to Decorate for Thanksgiving"
 date: 2022-11-08
+image: "../images/posts/Outside-Indoors.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"

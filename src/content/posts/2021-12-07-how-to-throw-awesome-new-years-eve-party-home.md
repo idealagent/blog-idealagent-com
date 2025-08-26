@@ -1,6 +1,7 @@
 ---
 title: "Wondering How to Throw an Awesome New Year’s Eve Party at Home? We’ve Got You Covered"
 date: 2021-12-07
+image: "../images/posts/newyear.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"

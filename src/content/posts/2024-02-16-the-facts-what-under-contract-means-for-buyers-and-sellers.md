@@ -1,6 +1,7 @@
 ---
 title: "The Facts - What Under Contract Means for Buyers and Sellers"
 date: 2024-02-16
+image: "../images/posts/the-facts-what-under-contract-means-for-buyers-and-sellers.jpg"
 categories: 
   - "home-selling"
 tags: 

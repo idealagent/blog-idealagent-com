@@ -1,6 +1,7 @@
 ---
 title: "Forbes featured our CEO and Founder Steve Johnston as one of “The Next 1000 2021.”"
 date: 2021-10-04
+image: "../images/posts/steve-johnston.jpg"
 categories: 
   - "news"
 slug_category: "news"

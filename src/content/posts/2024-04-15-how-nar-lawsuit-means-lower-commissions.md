@@ -1,6 +1,7 @@
 ---
 title: "The NAR Lawsuit: Lower Commissions Bring Higher Standards of Service"
 date: 2024-04-15
+image: "../images/posts/Picture2-1-e1713208213659-1024x470.jpg"
 categories: 
   - "news"
 tags: 
@@ -19,7 +20,7 @@ IDEAL AGENT® has been a forerunner in making commission rates more equitable an
 
 _Related: Wondering_ [_when mortgage rates will go down_](https://blog.idealagent.com/home-selling/when-will-mortgage-rates-go-down-2024/)_?_
 
-![a person in a suit shows a graph related to real estate pricing ](../images/posts/Picture2-1-e1713208213659-1024x470.jpg)
+
 
 ## The Evolution of Real Estate Commissions
 

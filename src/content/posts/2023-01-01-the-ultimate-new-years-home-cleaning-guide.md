@@ -1,6 +1,7 @@
 ---
 title: "New Years' House Cleaning Checklist - Cleaning for New Year"
 date: 2023-01-01
+image: "../images/posts/2-1-1024x577.png"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -13,7 +14,6 @@ We know the last few months of the year can be full of parties, plans, and chaos
 
 The start of the new year calls for both a clean-up and a clean-out. And we’re not just referring to the  holiday décor that’s still lingering around your home... Your closet, shelves, and drawers that are full of unneeded knick-knacks need some love, too! It’s also necessary to take a good look at the contents in your fridge and pantry so you can throw out expired food items or donate non-perishables that won’t get eaten. Step one to obtaining a clutter-free home: rid of household items that take up space and no longer serve you. Donating to your local [Goodwill](https://www.goodwill.org/) is one thoughtful way to “out with the old”!   
 
-![](../images/posts/2-1-1024x577.png)
 
 ### **2\. Organize**
 

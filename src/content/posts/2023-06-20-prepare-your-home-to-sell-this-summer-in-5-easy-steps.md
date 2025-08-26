@@ -1,6 +1,7 @@
 ---
 title: "Prepare Your Home to Sell this Summer in 5 Easy Steps"
 date: 2023-06-20
+image: "../images/posts/image.png"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -13,7 +14,6 @@ Are you looking to sell your home soon? If so, now is the time to prepare for li
 
 It is crucial to scale down the contents inside your home to help your house feel spacious when putting it on the market to be toured. If you get rid of unneeded furniture or décor, it will give an illusion that the rooms are bigger than otherwise perceived. In fact, it is recommended that you remove at least 50% of your items when properly staging a house for potential buyer walk-ins. You can de-clutter by utilizing storage bins and tucking them inside closets, under furniture, or in areas that won’t be visible to a buyer. Or, if space is an issue, take into account all the items you can move to a rental storage unit once you are ready for your home to hit the market.     
 
-![](../images/posts/image.png)
 
 ## 2\. Clean    
 

@@ -1,6 +1,7 @@
 ---
 title: "REI Magazine Sits Down With CEO & Founder, Steve Johnston on Getting Top Dollar for Your Home"
 date: 2022-05-02
+image: "../images/posts/steve-johnston.jpg"
 categories: 
   - "news"
 slug_category: "news"

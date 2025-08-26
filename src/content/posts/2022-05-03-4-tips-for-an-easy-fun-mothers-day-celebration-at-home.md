@@ -1,6 +1,7 @@
 ---
 title: "4 Tips for an Easy and Fun  Mother’s Day Celebration at Home"
 date: 2022-05-03
+image: "../images/posts/shutterstock_753137080-1.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -9,7 +10,6 @@ slug: "celebrate-mothers-day-at-home"
 
 Moms make every day great, so why not make this Mother’s Day extra sweet with some kid-friendly treats and crafts to spoil mom on her special day! Here are some ideas you don’t want to miss:
 
-![](../images/posts/shutterstock_753137080-1.jpg)
 
 **Fresh Flowers**  
 From red roses to yellow tulips, surprising mom with beautiful blooms is always a wonderful idea. In fact, [NY Magazine](https://nymag.com/strategist/article/best-mothers-day-flowers.html) suggested some of the most unique arrangements of the year like the gorgeous “[BloomNation Isabelle](https://www.bloomnation.com/florist/le-jardin-rose/isabelle/)” and the ever-popular “[Venus Et Fleur Round Eternity Roses](https://www.venusetfleur.com/products?box=9fe3acb0-4edc-11e8-96d0-410fee4c7cda&box_variant=61f2b990-b71a-11e8-aae0-b18974f92a99&flower_one=54186b40-cf5f-11e9-bc20-81010a8f977e&flower_two=f963c670-cf5b-11e9-bc20-81010a8f977e&stencil=5415cb60-b719-11e8-aae0-b18974f92a99#/steps/arrangement/colors)” that come neatly arranged in a stunning box and stay fresh for up to a year. If you’d rather pick up something local, you can run to a grocery store, neighborhood florist, or even head to a farm that offers fresh flower picking options for sunflowers, wildflowers, etc. **Tip:** If you purchase flowers from a grocery store the night before, you can cut the stems and put them in a decorative vase. Come morning, arrange them on a breakfast tray with a warm coffee or tea and breakfast item to surprise mom with breakfast in bed!   

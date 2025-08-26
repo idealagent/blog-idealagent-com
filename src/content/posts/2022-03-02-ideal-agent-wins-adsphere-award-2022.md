@@ -1,6 +1,7 @@
 ---
 title: "IDEAL AGENT Wins 2022 AdSphereTM Award Honoring Top Advertisers and Brands!"
 date: 2022-03-02
+image: "../images/posts/ia_logo.png"
 categories: 
   - "news"
 slug_category: "news"

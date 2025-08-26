@@ -1,6 +1,7 @@
 ---
 title: "3 Ways to Celebrate Dad This Father's Day"
 date: 2022-06-15
+image: "../images/posts/shutterstock_1501433546-1.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -9,7 +10,7 @@ slug: "3-ways-to-celebrate-dad-this-fathers-day"
 
 Father’s Day is a day to celebrate all the great dads in our lives. If you’re stuck on how to treat your dad or a father figure in your life on his special day, we’ve got you covered. We’ve come up with a list of Father’s Day ideas, featuring some Father’s Day crafts, activities, and even a potential Father’s Day gift find to set you and your family up for a fun and successful celebration!
 
-![](../images/posts/shutterstock_1501433546-1.jpg)
+
 
 ### **Celebration Festivities**
 

@@ -1,6 +1,7 @@
 ---
 title: "Did Someone Say Hot Dog Bar? Memorial Day BBQ Ideas for Your Home"
 date: 2022-05-25
+image: "../images/posts/shutterstock_1770249059.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -13,7 +14,7 @@ Memorial Day commences the season with warm, clear blue skies, and more outdoor 
   
 What’s a BBQ at home without hot dogs? A hot dog bar makes for the perfect party food station. [The Spruce](https://www.thespruce.com/creative-memorial-day-party-ideas-4137220) suggests that “an elaborate hot dog bar is a fun way to turn a classic Memorial Day food into something new and exciting.” Guests can head to the hot dog bar with their grilled dogs and choose from a selection of toppings like fresh and pickled vegetables, condiments such as mustard, ketchup, mayo, etc., and even sides like beans and coleslaw, that can double as toppings! It’s a great way to cater to each guest with minimal effort.
 
-![](../images/posts/shutterstock_1770249059.jpg)
+
 
    
 **Patriotic Décor**  

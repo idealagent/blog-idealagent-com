@@ -1,6 +1,7 @@
 ---
 title: "Finding the Best Selling Agent - How to Find a Seller for Your Home"
 date: 2022-04-26
+image: "../images/posts/agent-for-you.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"

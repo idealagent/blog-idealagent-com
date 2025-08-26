@@ -1,6 +1,7 @@
 ---
 title: "Spring Cleaning: Take it One Room at a Time"
 date: 2022-05-11
+image: "../images/posts/shutterstock_2019324995.jpg"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -8,8 +9,6 @@ slug: "spring-cleaning-take-one-room-at-a-time"
 ---
 
 Spring is not only a time for fresh flowers but also a time for fresh and clean spaces, especially if you’re thinking about selling your home soon. The yearly tradition of Spring cleaning is a wonderful way to refresh your home not only for you but for potential buyers. So how exactly do you start a complete home clean-up without feeling totally overwhelmed? The thought of cleaning and decluttering for hours on end can give just about anyone a headache and most likely keep you from starting. We have good news for you, a room-by-room approach is going to get you organized in no time without any of the overwhelm that comes with overhauling the process. 
-
-![](../images/posts/shutterstock_2019324995.jpg)
 
   
 [The Spruce](https://www.thespruce.com/spring-cleaning-a-complete-checklist-1900106) said the following about a room-by-room clean, “Approaching your house room by room is the most effective way to deep clean it. Create cleaning checklists for each room to help you get organized and to remind you of the areas that need extra attention. Feel free to skip the areas that have been cleaned recently and focus on the parts of your home that were largely neglected over the winter.” We couldn’t agree more that checklists make any project easier to tackle, especially a Spring-cleaning checklist! Grab a notebook and start by writing down one room per page, with specific problem areas as bulleted tasks under the room name. Take time looking through your whole house and determine any specific problem areas, ways that you could increase your organization, etc.

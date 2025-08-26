@@ -1,6 +1,7 @@
 ---
 title: "Here are the fastest growing Tampa Bay companies on the Inc. 5000 list"
 date: 2023-03-08
+image: "../images/posts/here-are-the-fastest-growing-tampa-bay-companies-on-the-inc-5000-list.jpg"
 categories: 
   - "news"
 slug_category: "news"

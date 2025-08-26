@@ -1,6 +1,7 @@
 ---
 title: "Real Estate Photography Checklist | Get Your Home Ready to Sell"
 date: 2021-09-24
+image: "../images/posts/checklist.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"

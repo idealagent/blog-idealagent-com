@@ -1,6 +1,7 @@
 ---
 title: "Authority Magazine’s Jason Hartman Sits Down with Our CEO and Founder, Steve Johnston on Getting Top Dollar for Your Home"
 date: 2022-03-23
+image: "../images/posts/steve-johnston.jpg"
 categories: 
   - "news"
 slug_category: "news"

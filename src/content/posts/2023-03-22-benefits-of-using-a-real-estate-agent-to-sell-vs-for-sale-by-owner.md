@@ -1,6 +1,7 @@
 ---
 title: "Benefits of Using a Realtor vs Selling Your Home on Your Own"
 date: 2023-03-22
+image: "../images/posts/Picture3.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -29,7 +30,6 @@ Sure, there may be templates online for real estate contracts. But every home is
 
 _Related:_ [_Do buyers pay agent fees?_](https://blog.idealagent.com/do-buyers-pay-agent-fees/) 
 
-![](../images/posts/Picture3.jpg)
 
 ### **Perks of Working With an Agent** 
 

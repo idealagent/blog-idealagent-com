@@ -1,13 +1,13 @@
 ---
 title: "5 Fun Ways to Spend New Year's Eve at Home"
 date: 2022-12-26
+image: "../images/posts/NYE-Blog-Pics-1024x577.png"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
 slug: "5-fun-ways-to-spend-new-years-eve-at-home"
 ---
 
-![](../images/posts/NYE-Blog-Pics-1024x577.png)
 
 Are you ringing in the new year in the comforts of your own home this year? We don't blame you! We have a few ideas that will make your evening spent at home just as enjoyable as a glamorous night out.   
 

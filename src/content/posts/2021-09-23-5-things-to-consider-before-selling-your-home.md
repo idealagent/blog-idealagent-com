@@ -1,6 +1,7 @@
 ---
 title: "5 Things to Consider Before Selling Your Home | Don't Jump the Gun"
 date: 2021-09-23
+image: "../images/posts/think.jpg"
 categories: 
   - "home-selling"
 slug_category: "testimonials"

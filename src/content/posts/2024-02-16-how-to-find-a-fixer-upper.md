@@ -1,6 +1,7 @@
 ---
 title: "Your Complete Guide to Finding a Fixer Upper"
 date: 2024-02-16
+image: "../images/posts/image-2.jpeg"
 categories: 
   - "home-buying"
 tags: 
@@ -75,7 +76,6 @@ An agent can help you find suitable properties, negotiate prices, and provide in
 
 If you're looking to find fixer upper homes on multiple listing (MLS) sites like Zillow or Trulia, filters can help you identify suitable homes for purchasing as fixer-uppers. Try adjusting the price range, filtering by conditions and keywords like "needs TLC," and searching for older homes on the site.  
 
-![](../images/posts/image-2.jpeg)
 
 ### Is it Worth Flipping?  
 

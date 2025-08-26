@@ -1,6 +1,7 @@
 ---
 title: "Votes are in on the #1 Place to Live!"
 date: 2022-05-18
+image: "../images/posts/shutterstock_2027136008.jpg"
 categories: 
   - "home-buying"
 slug_category: "home-buying"
@@ -9,7 +10,7 @@ slug: "best-place-to-live"
 
 For the second year in a row Boulder, Colorado has been voted the number one place to live in America by the [US News & World Report](https://realestate.usnews.com/places/rankings/best-places-to-live). From its stunning natural beauty ranging from national parks, trails, and recreational areas to the thriving economy and lively neighborhoods, Boulder is attracting new homeowners nationwide and it’s easy to see why! Here’s some of what you can expect from taking up residence in this charming city!   
 
-![](../images/posts/shutterstock_2027136008.jpg)
+
 
 **The Natural Beauty**  
   

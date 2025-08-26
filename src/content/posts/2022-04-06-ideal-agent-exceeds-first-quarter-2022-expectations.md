@@ -1,6 +1,7 @@
 ---
 title: "IDEAL AGENT® EXCEEDS FIRST-QUARTER 2022 EXPECTATIONS"
 date: 2022-04-06
+image: "../images/posts/ia_logo.png"
 categories:
   - "news"
 slug_category: "news"

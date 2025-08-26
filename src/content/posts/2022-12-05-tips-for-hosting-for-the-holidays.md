@@ -1,6 +1,7 @@
 ---
 title: "Tips for Hosting for the Holidays"
 date: 2022-12-05
+image: "../images/posts/2-1024x577.png"
 categories: 
   - "general-tips"
 slug_category: "general-tips"

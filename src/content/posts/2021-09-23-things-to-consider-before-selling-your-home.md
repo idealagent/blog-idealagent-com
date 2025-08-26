@@ -1,6 +1,7 @@
 ---
 title: "IDEAL AGENT®, Recent Home Sales, & The Reviews that Say it All"
 date: 2021-09-23
+image: "../images/posts/happy-client.jpg"
 categories: 
   - "testimonials"
 slug_category: "testimonials"

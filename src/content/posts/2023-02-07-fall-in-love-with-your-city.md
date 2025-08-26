@@ -1,6 +1,7 @@
 ---
-title: "<strong>Fall in Love with Your City </strong>"
+title: "Fall in Love with Your City"
 date: 2023-02-07
+image: "../images/posts/Fall-in-Love-with-Your-City-Blog-2-1024x577.png"
 categories: 
   - "general-tips"
 slug_category: "general-tips"
@@ -23,7 +24,7 @@ Famous for its casinos, fine dining, and endless live entertainment options, Sin
 
 San Antonio hosts the most visited tourist attraction in Texas: the Alamo. As you have likely toured the Alamo a time or two, we recommend going off the beaten path to explore more of what your city has to offer, like the Japanese Tea Garden. At no charge, you can frolic through the colorful garden and stand below a 60-foot waterfall. Talk about views! Or you can always go the culinary route and gradually try [every restaurant on the San Antonio Riverwalk](https://www.sanantonioriverwalk.com/san-antonio-riverwalk-restaurants/) to discover your favorite along the way.  
 
-![](../images/posts/Fall-in-Love-with-Your-City-Blog-2-1024x577.png)
+![](../images/posts/san-antonio.jpg)
 
 #### 4\. Chicago, IL  
 

@@ -1,6 +1,7 @@
 ---
 title: "7 Key Benefits of Home Staging for a Successful Sale"
 date: 2024-03-19
+image: "../images/posts/Picture2.jpg"
 categories: 
   - "home-selling"
 tags: 

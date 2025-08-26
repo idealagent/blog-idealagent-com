@@ -1,6 +1,7 @@
 ---
 title: "5 Steps to Getting Your Home Ready to Sell"
 date: 2023-01-24
+image: "../images/posts/5-steps-to-getting-your-home-ready-to-sell.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"

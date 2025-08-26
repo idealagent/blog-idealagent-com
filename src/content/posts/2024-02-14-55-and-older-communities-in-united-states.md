@@ -1,6 +1,7 @@
 ---
 title: "Your Guide to 55+ Communities - Where to Age in Place"
 date: 2024-02-14
+image: "../images/posts/55-and-older-women-kicking-water-by-a-dock-while-laughing-about-it.jpg"
 categories: 
   - "home-buying"
 tags: 
@@ -52,8 +53,6 @@ What are 55+ communities’ pros and cons? You may be familiar with some of them
 **Community Management:** Quality of life can heavily depend on the community's management and the HOA's effectiveness.
 
 ## Where Are the Best 55+ Communities?
-
-![55 and older women kicking water by a dock while laughing about it.jpg](../images/posts/55-and-older-women-kicking-water-by-a-dock-while-laughing-about-it.jpg)
 
 New retirement communities are popping up all over the US these days, but which areas of the country are considered the best for this lifestyle? Let’s cover a few of the most popular locales. 
 

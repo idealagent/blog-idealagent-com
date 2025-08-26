@@ -1,6 +1,7 @@
 ---
 title: "Expert Tips for Selling an Inherited House Successfully"
 date: 2024-04-01
+image: "../images/posts/Picture1.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"
@@ -23,7 +24,6 @@ Dealing with an inherited home can be emotionally taxing, especially if it is a 
 
 Setting the right price is critical when selling an inherited property. Your IDEAL AGENT® will provide a comparative market analysis to help you understand the market and set a competitive listing price. With the right pricing strategy, you can quickly attract serious buyers and sell the property.
 
-![two people go over a real estate contract on a wooden desk](../images/posts/Picture1.jpg)
 
 ### Legal Steps in Selling Inherited Property
 

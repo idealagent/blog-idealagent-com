@@ -1,6 +1,7 @@
 ---
 title: "Breaking Down Millennial Home Buying Trends"
 date: 2021-09-24
+image: "../images/posts/millenial.jpg"
 categories: 
   - "home-selling"
 slug_category: "home-selling"

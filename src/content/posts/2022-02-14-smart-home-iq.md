@@ -13,7 +13,7 @@ As [Best Reviews](https://bestreviews.com/electronics/smart-home/best-smart-home
 
 According to [The Seattle Times](https://www.seattletimes.com/explore/at-home/top-5-features-of-a-smart-home-system/#:~:text=Top%205%20features%20of%20a%20smart%20home%20system.,control%2C%20automated%20window%20treatments.%205%20Distributed%20audio.%20), “When most people talk about smart homes, what they really mean is remote access to one’s home systems. Remote access lets you operate your home’s systems without cloning yourself. Depending on the customizations you choose, remote access can let you check in on your home through video surveillance, turn on the entertainment system for that in-law who can’t figure out the remote, and even unlock the door to let the dog-walker in — and that’s just the tip of the iceberg. Remote access can give you remarkable peace of mind, and it’s incredibly convenient to have complete control while away.” In layman’s terms this means having your home appliances including your thermostat, lighting, garage door, etc. be able to be controlled via the app of your choice, computer, or your voice assistant.
 
-![](images/shutterstock_1584383977-1024x684.jpg)
+![](../images/posts/shutterstock_1584383977-1024x684.jpg)
 
 For starters, today the top-ranking voice assistants are brought to you by Amazon and Google, however, there are a few more you may want to consider when deciding on the perfect assistant for your home.  
 1.       [Amazon Alexa](https://www.amazon.com/dp/B07XKF5RM3?tag=mh0b-20&ref=pd_sl_11vad69j6i_e&adgrpid=1337006710208118&hvadid=83562991457156&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=72284&hvtargid=kwd-83563277159345:loc-190&hydadcr=3193_11517515)  

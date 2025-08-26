@@ -1,7 +1,7 @@
 ---
 title: "How Much it Costs to Build a Garage in 2024"
 date: 2024-04-16
-image: "/images/posts/build-a-garage.jpg"
+#image: "../images/posts/build-a-garage.jpg"
 authors: ["Research Team"]
 draft: false
 categories: 

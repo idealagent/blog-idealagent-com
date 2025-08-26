@@ -18,7 +18,7 @@ In this blog, we'll walk you through the keys to successful house hacking, from 
 
 Sometimes called rent hacking, house hacking requires in-depth knowledge of finances and real estate. At its core, it means leveraging rental income to offset your housing expenses — meaning your residence can also serve as a source of passive income.  
 
-![](images/Picture2-scaled.jpg)
+![](../images/posts/Picture2-scaled.jpg)
 
 ### **Find a Property** 
 
@@ -33,7 +33,7 @@ _Tip: Not sure how much mortgage you can afford? Try a mortgage affordability ca
 
 ### Calculate your NOI 
 
-![](images/Picture3-scaled.jpg)
+![](../images/posts/Picture3-scaled.jpg)
 
 To calculate the value house hacking could bring you, determine the net operating income (NOI) for the unit or units you'll rent out. Here's a simple formula for your calculations:  
 
@@ -51,7 +51,7 @@ Once you've determined the NOI from the units you'll be renting out, compare it 
 
 ## House Hacking Pros and Cons 
 
-![](images/Picture4-scaled.jpg)
+![](../images/posts/Picture4-scaled.jpg)
 
 Now that you know how to get started on your home hacking journey, let's go over some of the risks and benefits that come with the territory. It sounds great to turn your home into a passive source of income, but it's important to be aware of the pros and cons to determine if house hacking is right for you.  
 

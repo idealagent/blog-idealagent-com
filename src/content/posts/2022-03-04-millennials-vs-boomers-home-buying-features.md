@@ -17,7 +17,7 @@ From room to entertain and BBQ with friends to cozy outdoor spaces with market l
 
 Known as the “wellness generation”, [PureWow](https://www.purewow.com/home/millennial-homebuying-trends) notes that 49% of millennials believe having a home gym is very important. A recent article of theirs states, “Almost half of millennials ranked a home gym as one of the most appealing features of a new home (49 percent). That figure drops to 42 percent among Gen X and 19 percent for baby boomers. This is likely due to millennials’ tendency to exercise more often than other age groups.” Here’s what they had to say about boomers, “While many baby boomers are active, our data shows that home gyms simply aren’t a top priority when they’re looking for a new home. We’ve found that instead, they’re more likely to look for homes with high-quality kitchens and outdoor space. These amenities are ideal for activities like cooking, gardening and entertaining.”
 
-![](images/shutterstock_1506528020-1024x683.jpg)
+![](../images/posts/shutterstock_1506528020-1024x683.jpg)
 
 ### A Comfortable Home Office
 

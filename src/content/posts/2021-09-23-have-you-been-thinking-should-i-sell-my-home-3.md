@@ -23,7 +23,7 @@ It’s often misunderstood by sellers that increased profits are solely impacted
 
 More of a visual person? This may help:
 
-![](images/smart-seller-graphic-lg-1-1024x356.png)
+![](../images/posts/smart-seller-graphic-lg-1-1024x356.png)
 
 **How Does [IDEAL AGENT®](https://idealagent.com/) Select the Agent That Will Help Me Sell My Home?** 
 

@@ -53,7 +53,7 @@ What are 55+ communities’ pros and cons? You may be familiar with some of them
 
 ## Where Are the Best 55+ Communities?
 
-![55 and older women kicking water by a dock while laughing about it.jpg](images/55-and-older-women-kicking-water-by-a-dock-while-laughing-about-it.jpg)
+![55 and older women kicking water by a dock while laughing about it.jpg](../images/posts/55-and-older-women-kicking-water-by-a-dock-while-laughing-about-it.jpg)
 
 New retirement communities are popping up all over the US these days, but which areas of the country are considered the best for this lifestyle? Let’s cover a few of the most popular locales. 
 
@@ -79,7 +79,7 @@ Texas stands out for its affordable cost of living, diverse cities, and famously
 
 ## What to Look for When Choosing a 55+ Community
 
-![55 and older man painting on an easel while a woman cheers him on behind him](images/55-and-older-man-painting-on-an-easel-while-a-woman-cheers-him-on-behind-him.jpg)
+![55 and older man painting on an easel while a woman cheers him on behind him](../images/posts/55-and-older-man-painting-on-an-easel-while-a-woman-cheers-him-on-behind-him.jpg)
 
 Once you’ve narrowed your locations, it’s time to consider more specifics. Let’s examine some areas to consider before choosing your new home. 
 

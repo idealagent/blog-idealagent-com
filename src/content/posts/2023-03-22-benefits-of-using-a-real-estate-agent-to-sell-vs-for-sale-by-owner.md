@@ -21,7 +21,7 @@ Can you sell a house without a realtor or agent? Sure, but you likely won't make
 
 While you may be saving money on real estate commissions, selling a house without a realtor or agent also means losing out on the services they provide. You’ll need to invest in quality photos, staging materials, signage, flyers, and more. So if you're wondering "[Do I need a listing agent,"](https://blog.idealagent.com/do-i-need-listing-agent/) it's important to factor in the time and effort it takes to list the home itself.  
 
-![](images/Picture2.jpg)
+![](../images/posts/Picture2.jpg)
 
 ###  **Myth #3: Contracts are Simple**
 
@@ -29,7 +29,7 @@ Sure, there may be templates online for real estate contracts. But every home is
 
 _Related:_ [_Do buyers pay agent fees?_](https://blog.idealagent.com/do-buyers-pay-agent-fees/) 
 
-![](images/Picture3.jpg)
+![](../images/posts/Picture3.jpg)
 
 ### **Perks of Working With an Agent** 
 
@@ -51,7 +51,7 @@ Real estate agents are marketing experts, and most have already built impressive
 
 Negotiations can be a battle – especially with no one to act as a buffer between buyer and seller. Luckily, real estate agents are excellent negotiators. They’re more objective about your home, and they’ll provide all parties with unbiased guidance to reach the best price. 
 
-![](images/Picture4.jpg)
+![](../images/posts/Picture4.jpg)
 
 #### **Trust the Experts** 
 

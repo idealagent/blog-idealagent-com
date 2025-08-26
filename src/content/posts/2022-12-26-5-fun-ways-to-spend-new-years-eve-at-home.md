@@ -7,7 +7,7 @@ slug_category: "general-tips"
 slug: "5-fun-ways-to-spend-new-years-eve-at-home"
 ---
 
-![](images/NYE-Blog-Pics-1024x577.png)
+![](../images/posts/NYE-Blog-Pics-1024x577.png)
 
 Are you ringing in the new year in the comforts of your own home this year? We don't blame you! We have a few ideas that will make your evening spent at home just as enjoyable as a glamorous night out.   
 
@@ -15,13 +15,13 @@ Are you ringing in the new year in the comforts of your own home this year? We d
 
 Ring in the new year bonding with friends and family over some good-natured competition! Whether you play card games, [drinking games](https://parade.com/1058758/marynliles/fun-drinking-games/), board games, or even video games, you are destined to have some fun over a friendly tournament. Some crowd favorites that will get the whole crew involved are Spoons, Pictionary, Heads Up!, Catch Phrase or even a hilarious game of Cards Against Humanity. Game on, and good luck! 
 
-![](images/NYE-Blog-Pics-2-1024x577.png)
+![](../images/posts/NYE-Blog-Pics-2-1024x577.png)
 
 ### **2\. Host a Cocktail Contest**
 
 A cocktail contest is one way to put a twist on an adult night-in. All it takes is everyone creating a unique cocktail and collecting votes to see who is the best mixologist in the group! Or, if your drink of choice is bourbon, wine, or beer, do a tasting and pair each bottle with various [kinds of cheeses](https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese) and nuts.     
 
-![](images/NYE-Blog-Pics-3.png)
+![](../images/posts/NYE-Blog-Pics-3.png)
 
 ### **3\. Make a New Year's Meal**
 
@@ -31,7 +31,7 @@ Skip the expensive dinner and prepare a lucky New Year’s meal! A special occas
 
 What better way to spend a cozy evening at home than in your favorite pair of PJs? A pajama party is a perfect excuse to pop some popcorn and grab your favorite candy for a movie marathon. Or if you’re in the mood for some self-care, put on a facemask and have a spa night to prep your skin for the new year!   
 
-![](images/NYE-Blog-Pics-4.png)
+![](../images/posts/NYE-Blog-Pics-4.png)
 
 ### **5\. Scrapbook Last Year's Memories**
 

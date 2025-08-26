@@ -13,7 +13,7 @@ Are you bored of your old Thanksgiving décor? Or stressed about changing the lo
 
 Have you ever heard the saying “nature is the best source of inspiration”? We completely agree- especially when creating a fall mood at home! This year, why not lean into the “harvest” holiday that Thanksgiving is and grab some leaves, twigs, or pine cones from outside and add them to your tablescape? Accessorizing floral arrangements with pampas grass or bountiful feathers is also a charming way to welcome Mother Nature into your home. Trust us, using fall foliage-like visuals inside will create a warm sense of comfort for you and your guests. Not to mention, gathering things from your yard is more cost-effective (and fun) than shopping for décor at your local superstore! 
 
-![](images/Outside-Indoors.jpg)
+![](../images/posts/Outside-Indoors.jpg)
 
 ### ****2\. **Embrace the whites, blacks, and golds******  
 
@@ -27,10 +27,10 @@ This year we’re not just cooking the food, we’re decorating with it too. You
 
 Homemakers tend to get overwhelmed around the holidays when it comes to cleaning, cooking, baking, decorating, and everything else in between. Here’s a secret: you don’t need to do a total home makeover to bring the festive spirit to your guests. A lot of times, less is more. Why not just dress up the bar with some fall garland or a copper ice bucket and call it a day? You can also get away with simply throwing a few brown leather pillows and a velvet blanket on the living room couch. Even setting the tone with warm lighting and plenty of lit pumpkin pie-[scented candles](https://www.forbes.com/sites/forbes-personal-shopper/2022/07/27/best-fall-candles/?sh=4086deff475a) can make it feel like you are home for the holidays! It’s all in the details... 
 
-![](images/accents.jpg)
+![](../images/posts/accents.jpg)
 
 ### ******5\. **It’s time to dust off that fine China!********  
 
 Sometimes it makes the most sense to utilize what you have- especially if what you have is valuable and only sees the light of day on special occasions! Bringing out grandma’s fine China on Thanksgiving is a tradition unlike any other. There is something about a relative’s porcelain that is both classy and comforting. And when else do you make the excuse to pull out this special hardware other than the holidays? Let the antiques breathe! You may be questioning whether the vintage dining ware suits your style. The truth is, it probably doesn’t... But if you pair it with some of your modern pieces, we are positive it will create an impressive, colorful look for your guests. 
 
-![](images/china.jpg)
+![](../images/posts/china.jpg)

@@ -17,7 +17,7 @@ For starters, when you are considering the listing price of your home you may th
 
 Once a price has been determined, your agent will help you navigate and negotiate the offers and ultimate selling price as buyers start rolling in but what about the stuff before that? Part of this due diligence is marketing your property to get in view of those top-dollar buyers. From hiring a photographer to take professional photographs of your home, to listing it on the MLS, your agent will help you determine the most effective way to market your property. Interestingly, another perk of working with a top agent was recently mentioned in a [REALTOR](https://www.realtor.com/advice/sell/why-to-use-a-realtor-when-selling-your-home/) article that stated, “National Association of Realtors studies show that 82 percent of real estate sales are the result of agent contacts from previous clients, referrals, friends, family, and personal contacts.” Top agents are connected in ways that an average homeowner may not be, which has perpetually played a key role in top-dollar home sales.
 
-![](images/Untitled-design-2.png)
+![](../images/posts/Untitled-design-2.png)
 
 ### **Making the Process Safer**
 

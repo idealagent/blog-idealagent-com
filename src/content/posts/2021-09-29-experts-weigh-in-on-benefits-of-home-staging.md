@@ -23,7 +23,7 @@ _Pro tip: If you can't be at your home physically during the sale process, try o
 
 ### **Benefit #2: Higher Sale Price Potential** 
 
-![a staged kitchen in a home for sale with lemons and orchids on display ](images/Picture1-1024x683.jpg)
+![a staged kitchen in a home for sale with lemons and orchids on display ](../images/posts/Picture1-1024x683.jpg)
 
 **Data supports that staged homes often command a** [**higher selling price**](https://www.architecturaldigest.com/reviews/moving/home-staging-statistics) **than non-staged homes.** This can be attributed to the enhanced perceived value that staging creates. By presenting a home in its best light, staging makes more than just a space, but a lifestyle visualization for potential buyers. This strategic presentation can increase competition among interested parties, driving up the final sale price. While good staging requires a little upfront investment, it can offer substantial returns by elevating the property’s market value. For sellers aiming to maximize their profit, staging is more than just a marketing tactic; it's a critical investment in the sales process.  
 
@@ -33,7 +33,7 @@ When you're [selling your home,](https://blog.idealagent.com/thinking-of-selling
 
 ### **Benefit #4: Stronger First Impressions**
 
-![a staged entryway painted green with flowers and glass art](images/wF57jvhqCIuIQAAAABJRU5ErkJggg==)
+![a staged entryway painted green with flowers and glass art](../images/posts/wF57jvhqCIuIQAAAABJRU5ErkJggg==)
 
 Think of the last time you walked into a home and immediately thought, "Wow, I could see myself living here!" That's the magic of a good first impression, and it's precisely what staging a home to sell can do. When buyers walk through a staged home, they're not just looking at walls and floors; they're seeing a future home, a place they can host dinner parties, relax in the living room, or enjoy a quiet morning in the breakfast nook. 
 
@@ -49,7 +49,7 @@ This emotional bond is powerful; it transforms a house into a dream home in the 
 
 **Benefit #6: Show Your Home's Potential** 
 
-![an industrial style living space staged with minimalist furniture and plants](images/Picture3-1024x686.jpg)
+![an industrial style living space staged with minimalist furniture and plants](../images/posts/Picture3-1024x686.jpg)
 
 A spare bedroom might seem just okay initially, but with the right touch, it suddenly becomes a cozy guest room, a home office, or a craft room. House staging pulls back the curtain, showing off how a home can adapt to fit a buyer's life. The right staging highlights the spaciousness of the living area, the warmth of the fireplace, or the perfect nook for a reading spot. This isn't just about decorating; it's about envisioning a lifestyle that buyers can't resist. (And showing them all the different lifestyles they could enjoy in the space.) When potential buyers can see themselves living their ideal lives in your home, you know staging has worked its magic, turning potential into a profitable outcome.  
 

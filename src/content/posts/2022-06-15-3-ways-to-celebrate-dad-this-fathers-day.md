@@ -9,7 +9,7 @@ slug: "3-ways-to-celebrate-dad-this-fathers-day"
 
 Father’s Day is a day to celebrate all the great dads in our lives. If you’re stuck on how to treat your dad or a father figure in your life on his special day, we’ve got you covered. We’ve come up with a list of Father’s Day ideas, featuring some Father’s Day crafts, activities, and even a potential Father’s Day gift find to set you and your family up for a fun and successful celebration!
 
-![](images/shutterstock_1501433546-1.jpg)
+![](../images/posts/shutterstock_1501433546-1.jpg)
 
 ### **Celebration Festivities**
 
@@ -19,7 +19,7 @@ Another recommendation for celebration is hosting a family game night! You can u
   
 For a dad who loves to whip up the tastiest dishes, [Today](https://www.today.com/life/holidays/fathers-day-activities-rcna28205)  proposes getting the entire family in on a delicious recipe and helping dad make his meal of choice. Why not learn a few skills from the main cook himself?
 
-![](images/shutterstock_529894879-1.jpg)
+![](../images/posts/shutterstock_529894879-1.jpg)
 
 ### **Fun Family Crafts For Father's Day**
 
@@ -29,7 +29,7 @@ Crafts can be enjoyed as both an activity and as a gift from the kids! They can 
   
 A craft that is perfect for a grill master dad is a DIY grilling apron. By using fabric markers and/or fabric paints, the grilling apron will turn into a meaningful piece of art that both the kids and dad will enjoy making.   
 
-![](images/shutterstock_1906983364-1.jpg)
+![](../images/posts/shutterstock_1906983364-1.jpg)
 
 ### **Dad Gift Finds**
 

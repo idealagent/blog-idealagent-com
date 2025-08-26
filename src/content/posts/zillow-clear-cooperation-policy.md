@@ -3,7 +3,7 @@ title: "Zillow’s Clear Cooperation Policy: A Bold Step Toward Transparency in 
 meta_title: "Zillow’s Clear Cooperation Policy: A Bold Step Toward Transparency in Real Estate"
 description: "Zillow’s Clear Cooperation Policy: A Bold Step Toward Transparency in Real Estate"
 date: 2025-04-14T05:00:00Z
-image: "/images/posts/08.jpg"
+image: "../images/posts/08.jpg"
 categories: ["selling", "in the news"]
 authors: ["Steve Johnston"]
 tags: ["selling", "clear cooperation"]

@@ -11,7 +11,7 @@ So, you’ve decided that it’s time to sell, you finally feel ready, and the m
 
 According to [Money®](https://money.com/home-sale-renovation-hot-market/), online surveys have also found that homeowners who completed at least one improvement project were able to reach the closing table with an offer that was higher than their listing price as opposed to those who made no improvements whatsoever. So, what exactly are those broadly suggested improvements? Here are a few of the common improvements that were recently suggested by the [National Association of REALTORS® 2021 Research Group](https://cdn.nar.realtor/sites/default/files/documents/2021-profile-of-home-staging-report-04-06-2021.pdf): 
 
-![](images/infographics-blog-Artboard-3-1024x720.jpg)
+![](../images/posts/infographics-blog-Artboard-3-1024x720.jpg)
 
 **A Professional Cleaning Service:** there’s no denying that a good scrub can make just about anything more attractive. A great example would be professional carpet cleaning or removal. 
 

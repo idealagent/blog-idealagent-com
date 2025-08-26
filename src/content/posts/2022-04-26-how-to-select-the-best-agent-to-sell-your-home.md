@@ -12,7 +12,7 @@ Deciding that you are ready to sell your home is no small feat, especially if yo
 For starters, it’s important to understand how we select the agent partners in our network. Our internal team of expert recruiters interviews and handpicks only the best agents in local markets across all 50 states, the US Virgin Islands, and Puerto Rico. [IDEAL AGENT](http://idealagent.com/) is extremely selective and turns down over 90% of the agents who want to work with us, as only the top 1% are able to join our program. Importantly, agents can’t pay to join, they are only invited to be a part of our network after they’ve been vetted by our team. Simply put, you can rest assured that we interviewed the best agents in your local market and negotiated a great commission on your behalf. These agents rank in the top 1% local and nationally and are highly experienced professionals.   
  
 
-![](images/image-21.jpeg)
+![](../images/posts/image-21.jpeg)
 
 So, how exactly do we pair you with your specific agent? Simple! Once you reach out to us, a member of our Client Concierge team will connect with you to learn everything that we need to know to make the ideal match. We’ll discuss your goals and needs to match you with the perfect agent who has experience selling similar homes at the same price point in your marketplace. Not only will you be paired with a top agent, but you will have a member of our Client Concierge team available to you to answer any questions you may have!
 
@@ -29,7 +29,7 @@ So, how exactly do we pair you with your specific agent? Simple! Once you reach 
 - They will place your listing on the Multiple Listing Service and other major real estate sites like Zillow, Realtor.com, etc.
 - Several of our agents manage or are part of teams that include buyer’s agents and transaction coordinators which help open your pool of potential buyers. 
 
-![](images/image-22.jpeg)
+![](../images/posts/image-22.jpeg)
 
 Here is what you can expect when you work with IDEAL AGENT’s agent partners to sell your home:   
    

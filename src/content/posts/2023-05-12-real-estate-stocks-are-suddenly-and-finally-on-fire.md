@@ -9,7 +9,7 @@ slug: "real-estate-stocks-are-suddenly-and-finally-on-fire"
 
 Redfin, Opendoor and Compass have all seen their share prices rally in recent days — suggesting that after years of the cold shoulder investors are warming to the sector
 
-![Real estate stocks are suddenly and finally on fire](images/wall-street-bull-2-1024x576.jpeg)
+![Real estate stocks are suddenly and finally on fire](../images/posts/wall-street-bull-2-1024x576.jpeg)
 
 Stable Diffusion
 
@@ -23,13 +23,13 @@ After an interminably long and dark winter, the bears — it seems — are gone.
 
 That’s the takeaway, at least, from multiple real estate companies’ remarkable rallies in the stock market over the last week. The rallying began on May 5, when [Redfin](https://www.inman.com/2023/04/13/redfin-lays-off-201-staffers-in-third-round-of-painful-cuts-since-june/) shares began a climb from just over $7 to, as of Thursday afternoon, more than $11. All told, over the last five days of trading Redfin shares had risen nearly 50 percent by the time markets closed Thursday.
 
-![](images/Screen-Shot-2023-05-11-at-12.35.24-PM.png)
+![](../images/posts/Screen-Shot-2023-05-11-at-12.35.24-PM.png)
 
 Credit: Google[](https://events.inman.com/inman-connect-las-vegas)
 
 Opendoor experienced something similar over that same period. Five days ago, shares in the iBuyer were trading for less than $1.50. But by Thursday afternoon, they were trading for around $2.16 — also nearly a 50 percent rise. On Wednesday, they had also been trading even higher, at one point hitting more than $2.50.
 
-![](images/Screen-Shot-2023-05-11-at-12.35.48-PM.png)
+![](../images/posts/Screen-Shot-2023-05-11-at-12.35.48-PM.png)
 
 Credit: Google
 
@@ -37,11 +37,11 @@ The rally didn’t stop there, though.
 
 On Wednesday, Compass shares shot up, rising from just over $2.80 to nearly $3.90. Shares fell a bit Thursday but were still trading above the mid $3 range — up more than 60 percent over five days.
 
-![](images/Screen-Shot-2023-05-11-at-12.34.32-PM.png)
+![](../images/posts/Screen-Shot-2023-05-11-at-12.34.32-PM.png)
 
 Other companies have enjoyed smaller, but still meaningful rallies. As of Thursday afternoon, Offerpad shares were up more than 20 percent over the last five days. And Fathom Holdings had risen about 27 percent during that period.
 
-![](images/Screen-Shot-2023-05-11-at-12.37.47-PM.png)
+![](../images/posts/Screen-Shot-2023-05-11-at-12.37.47-PM.png)
 
 Credit: Google
 
@@ -79,7 +79,7 @@ That doesn’t mean, of course, that real estate stocks are out of the woods. Ev
 
 But for now, the gains are significant. Opendoor shares haven’t traded as high as their current price since last fall, meaning this week’s rally reversed months of losses. At $11 per share, Redfin’s stock is within striking distance of its 52-week high of about $13 per share. Opendoor is much less at risk of once again falling below $1. It doesn’t look like Compass will ultimately approach that threshold — something that wasn’t a given when shares were below $2.
 
-![](images/Robert-Reffkin-Headshot-1-150x150.jpeg)
+![](../images/posts/Robert-Reffkin-Headshot-1-150x150.jpeg)
 
 Robert Reffkin
 

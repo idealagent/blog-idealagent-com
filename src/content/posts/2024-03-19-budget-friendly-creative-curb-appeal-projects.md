@@ -21,7 +21,7 @@ _Pro tip: If you need_ _front yard curb appeal ideas_ _for drought-prone areas o
 
 For some extra curb appeal ideas, try [adding colorful flowers](https://blog.idealagent.com/how-to-decorate-a-house-with-plants/) or decorative plants around the edges of the lawn. This can help create visual interest and draw attention to your gorgeous green grass. Consider low-maintenance perennials that complement the color and style of your home — they'll come back every year to bring a pop of visual appeal.  
 
-![a modern home with updated outdoor lighting  ](images/image-12.jpeg)
+![a modern home with updated outdoor lighting  ](../images/posts/image-12.jpeg)
 
 ## **2\. Light it Up**
 
@@ -39,7 +39,7 @@ Your driveway is more than just a path for your vehicles; it's also an element o
 - **Driveway Repairs:** Small cracks and holes can become more prominent if left to grow. Clean out any dirt or debris from these areas and use a concrete repair caulk or asphalt patch to smooth the surface. Be sure to let any repairs set before driving over them.  
 - **Sealant:** After your repairs and cleaning, you can apply a driveway sealant to protect from future damage and add an appealing sheen to the surface.  
 
-![ a new, blue front door on a light-colored home exterior  ](images/image-13.jpeg)
+![ a new, blue front door on a light-colored home exterior  ](../images/posts/image-13.jpeg)
 
 ## 4\. **Front Door Updates** 
 
@@ -47,7 +47,7 @@ Your front door has a significant impact on your curb appeal. It may even be the
 
 You can add decorations to your front port and entryway to reflect the seasons and your personal style. Wreaths, welcome mats, and potted plants are all simple additions that can make a big impact. Another simple change is your door's hardware. Replace outdated knobs, handles, and knockers with modern ones that match your home's style. You may even consider getting new house numbers to update the look.  
 
-![A homeowner with a power washer cleans their outdoor deck ](images/image-14.jpeg)
+![A homeowner with a power washer cleans their outdoor deck ](../images/posts/image-14.jpeg)
 
 ## **5\. Clean, Clean, Clean**
 

@@ -13,7 +13,7 @@ We know the last few months of the year can be full of parties, plans, and chaos
 
 The start of the new year calls for both a clean-up and a clean-out. And we’re not just referring to the  holiday décor that’s still lingering around your home... Your closet, shelves, and drawers that are full of unneeded knick-knacks need some love, too! It’s also necessary to take a good look at the contents in your fridge and pantry so you can throw out expired food items or donate non-perishables that won’t get eaten. Step one to obtaining a clutter-free home: rid of household items that take up space and no longer serve you. Donating to your local [Goodwill](https://www.goodwill.org/) is one thoughtful way to “out with the old”!   
 
-![](images/2-1-1024x577.png)
+![](../images/posts/2-1-1024x577.png)
 
 ### **2\. Organize**
 
@@ -23,10 +23,10 @@ Once you have all your necessities in check, the next (and most satisfying step 
 
 ‘Tis the season for colds, cases of flu, and everything else in between! So, what better way to feel comfortable in your home than by giving it a deep cleaning and ridding all your surfaces of unwanted winter germs? Start 2023 with a cleansed area by doing it all- moving the furniture to dust, vacuum, and mop, wiping the windows and blinds, scrubbing the fridge and oven, and of course cleansing the bathrooms. It’s also important to hit the areas that we often forget about such as the chimney or ceiling fixtures and corners/cracks that are out of eye-level view. Here is a helpful guide to the [best cleaning products of 2022](https://www.purewow.com/home/best-cleaning-products) for all your cleaning inspiration!  
 
-![](images/3-1-1024x577.png)
+![](../images/posts/3-1-1024x577.png)
 
 ### **4\. Freshen Up** 
 
 Now that your home is clean and organized, you have the freedom and opportunity to make it feel fresh! To start, open the windows to breathe fresh air into your home or awaken scents inside the home through fresh flowers or lighting a candle. Other, more extensive ways to freshen your space would be through washing rugs, window treatments, or throw blankets. Rearranging furniture and flipping your mattress is also a good way to help energize your rooms. Feeling refreshed is crucial for your well-being on many levels, and that sense of cleanliness should always start at home! 
 
-![](images/4-3-1024x577.png)
+![](../images/posts/4-3-1024x577.png)

@@ -21,7 +21,7 @@ Let’s face it, the holidays can cause even the most laid-back individuals to l
 
 Do yourself a favor and meal prep as much as you can! We know there are certain limitations to this when trying to ensure the food stays fresh, but having meat marinated and sides dished and ready to bake is a game-changer. Even preparing snacks or appetizers to serve between meals will help free up your time and be convenient for when you have a hungry guest in your kitchen. Another smart tip is to keep easy access breakfast foods in the pantry for overnight guests that are early risers. Before everyone goes to bed, let your guests know where the tea, coffee, cereal, bagels, etc. are in case they need to fill their stomachs before you’re back in the kitchen. The last rule of thumb when cooking for others is to check to see if anyone has dietary restrictions or requirements– the hospital is the last place anyone wants to be on Christmas! 
 
-![](images/2-1024x577.png)
+![](../images/posts/2-1024x577.png)
 
 ### ****3\. Personal Touches Go a Long Way****  
 
@@ -43,13 +43,13 @@ Here are a few personal touches that may resonate with you and your guests: 
 
 - Create a pretty area in your home for your guests to take photos 
 
-![](images/3-1024x577.png)
+![](../images/posts/3-1024x577.png)
 
 ### **4\. Have holiday beverages on deck** 
 
 Cocktail or mocktail, festive drinks make hydrating (and mingling) more fun! Some holiday staples that are good to keep behind the bar are eggnog, champagne, hot cocoa, mulled wine, or even Santa’s favorite: white milk. Your guests may also admire a signature feature cocktail like a gingerbread martini or [jingle juice](https://www.delish.com/cooking/recipe-ideas/recipes/a56844/jingle-juice-recipe/) to sip on throughout the night. But, once the party begins, we recommend that you refrain from playing bartender when you’re the host. This job is the easiest to hand off, especially if you have a family member or guest that loves to keep their hands busy and work the crowd! 
 
-![](images/4-1-1024x577.png)
+![](../images/posts/4-1-1024x577.png)
 
 ### **5\. Ensure your home smells good** 
 

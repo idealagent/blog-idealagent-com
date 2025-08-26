@@ -23,7 +23,7 @@ Famous for its casinos, fine dining, and endless live entertainment options, Sin
 
 San Antonio hosts the most visited tourist attraction in Texas: the Alamo. As you have likely toured the Alamo a time or two, we recommend going off the beaten path to explore more of what your city has to offer, like the Japanese Tea Garden. At no charge, you can frolic through the colorful garden and stand below a 60-foot waterfall. Talk about views! Or you can always go the culinary route and gradually try [every restaurant on the San Antonio Riverwalk](https://www.sanantonioriverwalk.com/san-antonio-riverwalk-restaurants/) to discover your favorite along the way.  
 
-![](images/Fall-in-Love-with-Your-City-Blog-2-1024x577.png)
+![](../images/posts/Fall-in-Love-with-Your-City-Blog-2-1024x577.png)
 
 #### 4\. Chicago, IL  
 
@@ -37,7 +37,7 @@ When you think of Philadelphia, it is hard not to salivate at the thought of a P
 
 Known for its nightlife scene, pristine beaches, and cultural fusion, Miami is seen as the place to be! However, if you call Miami home, it is probably easy to overlook the glamour everyone sees from the outside looking in. Here is one way to fix that: plan a staycation! Wine and dine in Miami like you are visiting for the weekend, and you will quickly remember why it is so easy to get caught in the Miami heat.   
 
-![](images/Fall-in-Love-with-Your-City-Blog-3-1024x577.png)
+![](../images/posts/Fall-in-Love-with-Your-City-Blog-3-1024x577.png)
 
 #### 7\. Orlando, FL  
 
@@ -55,13 +55,13 @@ One of the best things about Jacksonville’s location is its accessibility. Whe
 
 The pretty beaches of Myrtle Beach run 60 miles along the coastline- a stretch known as the Grand Strand. The Grand Strand gives plenty of opportunities for outdoor activities, one of the most popular being golf- as the area is credited for its [many beautiful, green courses](https://www.mbgolf.com/golf-courses/). And we haven’t even covered the endless food options in this town! Between relaxing on the beaches, staying active outside, and indulging in the seafood, your entertainment in Myrtle Beach is infinite!  
 
-![](images/Fall-in-Love-with-Your-City-Blog-4-1024x577.png)
+![](../images/posts/Fall-in-Love-with-Your-City-Blog-4-1024x577.png)
 
 #### 11\. Albuquerque, NM  
 
 Fun fact: Albuquerque is the highest metropolitan area in the US. So, it is no coincidence that the city is home to the one and only International Balloon Fiesta! Fiesta or no fiesta, it seems like it would be hard to get bored in a beauty like New Mexico. Try romanticizing your time in Albuquerque by hiking the Ria Grande Valley or the Sandia Mountains. If anything, walk outside your door and find new trails or nature sightings right at your fingertips!   
 
-![](images/Fall-in-Love-with-Your-City-Blog-5-1024x577.png)
+![](../images/posts/Fall-in-Love-with-Your-City-Blog-5-1024x577.png)
 
 #### 12\. Colorado Springs, CO  
 
@@ -75,7 +75,7 @@ Home of the IDEAL AGENT headquarters! Oh, and a few other cool spots... 😏 Kid
 
 As the racing capital of the world, there is nothing more electric than the month of May at the Motor Speedway in Indianapolis. But it is important to keep that passion for the city alive even during those brutal winter months! A few ways to keep your love for the city fresh may be to explore the 25-mile-long Monon trail and Central Canal downtown or by visiting the ever-evolving Newfield's and Children’s Museum.   
 
-![](images/Fall-in-Love-with-Your-City-Blog-6-1024x577.png)
+![](../images/posts/Fall-in-Love-with-Your-City-Blog-6-1024x577.png)
 
 #### 15\. Cincinnati, OH  
 

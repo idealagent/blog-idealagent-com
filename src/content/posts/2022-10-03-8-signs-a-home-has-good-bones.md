@@ -20,7 +20,7 @@ A solid foundation does more than support the structure of a house. It insulates
 
 A roof quite literally completes a home. Without a roof, the structure of a house would eventually crumble to pieces. So, having a sturdy roof over your head is crucial to feeling safe and comfortable inside your home. You can typically tell when a roof is deteriorating, cracking, or sagging just by looking at it. However, we recommend having a professional evaluate the roofing of a house before you buy it- because replacing a roof is neither ideal nor economical.   
 
-![](images/image-19.jpeg)
+![](../images/posts/image-19.jpeg)
 
 ### **3\. Practical Floor Plan**    
 
@@ -38,13 +38,13 @@ When evaluating the bones of a house, always peek for cracks or discoloration on
 
 When you step into a home (after removing your shoes, assuming you practice good manners), the first physical point of contact you experience is with the flooring. Floors are the foundation of your home design and the element that takes up the most real estate in every space. Therefore, the floors directly impact the way you experience your home. You want to ensure that the flooring is not sagging in any areas and it constantly feels solid to walk on. Many homeowners consider having wood floors underneath carpeting as a bonus!  
 
-![](images/image-18.jpeg)
+![](../images/posts/image-18.jpeg)
 
 ### **7\. Natural Light and Windows**  
 
 Let’s face it, living in a home with little access to sunlight sounds a bit miserable. So, when you build or buy a home it’s important to ensure that there are large windows that provide natural light throughout the house. We recommend assessing the lighting throughout the home at all times of the day. For instance, if you enjoy watching the sunrise on your couch with a cup of joe in the mornings, you want to be sure you have a living room window that faces the east. Always prioritize the little things in life that bring you joy!   
 
-![](images/image-20.jpeg)
+![](../images/posts/image-20.jpeg)
 
 ### **8\. Appealing Location**   
 

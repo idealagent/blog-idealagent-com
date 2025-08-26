@@ -13,21 +13,21 @@ Memorial Day commences the season with warm, clear blue skies, and more outdoor 
   
 What’s a BBQ at home without hot dogs? A hot dog bar makes for the perfect party food station. [The Spruce](https://www.thespruce.com/creative-memorial-day-party-ideas-4137220) suggests that “an elaborate hot dog bar is a fun way to turn a classic Memorial Day food into something new and exciting.” Guests can head to the hot dog bar with their grilled dogs and choose from a selection of toppings like fresh and pickled vegetables, condiments such as mustard, ketchup, mayo, etc., and even sides like beans and coleslaw, that can double as toppings! It’s a great way to cater to each guest with minimal effort.
 
-![](images/shutterstock_1770249059.jpg)
+![](../images/posts/shutterstock_1770249059.jpg)
 
    
 **Patriotic Décor**  
   
 A fun addition to our list of Memorial Day BBQ ideas is decoration! Show your patriotism and follow the red, white, and blue theme throughout all your decor. [Crate and Barrel](https://www.crateandbarrel.com/ideas-and-advice/memorial-day-party-ideas) recommends “big, colorful decor items first, such as a bright red or blue tablecloth or table runner. Flag-themed napkins and placemats can also be added to showcase the patriotic Memorial Day theme.” Keep the theme going by adding miniature American flags to any floral arrangement to create the perfect, yet simple patriotic centerpiece.  
 
-![](images/shutterstock_698068522.jpg)
+![](../images/posts/shutterstock_698068522.jpg)
 
    
 **Outdoor Games**  
   
 Regardless of whether there will be kids or strictly adults attending your Memorial Day BBQ, outdoor games are the perfect way to entertain! [Better Homes & Gardens](https://www.bhg.com/holidays/july-4th/traditions/fun-ideas-for-memorial-day/) says lawn games like “bags, ring toss, and horseshoes” are great games to initiate some friendly competition between guests! If you have a decently sized yard, outdoor sports games like volleyball, badminton, and/or pickleball are as easy as setting up a net! Aside from amusement, these different games can pose as the ultimate icebreakers for your guests.  
 
-![](images/shutterstock_314219486.jpg)
+![](../images/posts/shutterstock_314219486.jpg)
 
 **Dessert**  
   

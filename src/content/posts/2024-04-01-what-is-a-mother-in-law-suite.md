@@ -11,7 +11,7 @@ The concept of a mother-in-law suite, also known as an Accessory Dwelling Unit (
 
 Homes with mother-in-law suites offer additional family accommodation, which helps generate rental income, function as home offices, and provide a cost-effective alternative to traditional elderly care. Let's dive into these versatile living spaces, which range from backyard cottages to converted garages, and how they can add value to your home.
 
-![a woman on a blue couch in the living room with her mother-in-law](images/Picture8.jpg)
+![a woman on a blue couch in the living room with her mother-in-law](../images/posts/Picture8.jpg)
 
 Mother-in-law suites are not just additional rooms; they are self-contained living spaces equipped with kitchens, bathrooms, and living areas. They can be attached to the primary residence or exist as a standalone unit, like a backyard mother-in-law suite. These suites offer homeowners flexibility in usage – whether for hosting extended family, providing a private space for a college-age child, or serving as a sanctuary for elderly parents, avoiding the high costs of assisted living facilities.
 
@@ -63,7 +63,7 @@ The estimated costs for building a mother-in-law suite vary widely, influenced b
 
 Selecting a trustworthy and experienced contractor or project manager is a key step in ensuring the successful construction of your mother-in-law suite. This professional should have a verifiable history of leadership and expertise in similar projects. Their role is pivotal in guiding the process, helping to secure required permits, and ensuring high-quality implementation of the chosen design.
 
-#### ![a young couple makes remodeling decisions in their home](images/Picture9.jpg)
+#### ![a young couple makes remodeling decisions in their home](../images/posts/Picture9.jpg)
 
 #### 
 

@@ -19,7 +19,7 @@ IDEAL AGENT® has been a forerunner in making commission rates more equitable an
 
 _Related: Wondering_ [_when mortgage rates will go down_](https://blog.idealagent.com/home-selling/when-will-mortgage-rates-go-down-2024/)_?_
 
-![a person in a suit shows a graph related to real estate pricing ](images/Picture2-1-e1713208213659-1024x470.jpg)
+![a person in a suit shows a graph related to real estate pricing ](../images/posts/Picture2-1-e1713208213659-1024x470.jpg)
 
 ## The Evolution of Real Estate Commissions
 
@@ -85,7 +85,7 @@ As the real estate industry witnessed the evolution of commission structures, ID
 
 [_What to expect when selling your home with IDEAL AGENT®_](https://blog.idealagent.com/testimonials/what-to-expect-when-selling-your-home-with-ideal-agent/)
 
-![Selling and saying goodbye has never been easier. ](images/Picture3-2.jpg)
+![Selling and saying goodbye has never been easier. ](../images/posts/Picture3-2.jpg)
 
 ## Looking Ahead: The Future of Real Estate
 

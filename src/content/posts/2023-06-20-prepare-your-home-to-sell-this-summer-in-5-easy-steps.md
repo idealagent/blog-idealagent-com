@@ -13,7 +13,7 @@ Are you looking to sell your home soon? If so, now is the time to prepare for li
 
 It is crucial to scale down the contents inside your home to help your house feel spacious when putting it on the market to be toured. If you get rid of unneeded furniture or décor, it will give an illusion that the rooms are bigger than otherwise perceived. In fact, it is recommended that you remove at least 50% of your items when properly staging a house for potential buyer walk-ins. You can de-clutter by utilizing storage bins and tucking them inside closets, under furniture, or in areas that won’t be visible to a buyer. Or, if space is an issue, take into account all the items you can move to a rental storage unit once you are ready for your home to hit the market.     
 
-![](images/image.png)
+![](../images/posts/image.png)
 
 ## 2\. Clean    
 
@@ -31,4 +31,4 @@ We recommend taking down and putting away personal items such as initials, relig
 
 Last, and most definitely not least, it is in your best interest to connect with a top agent to give you further guidance before listing your home. An experienced agent will provide you with expert advice and ideas for needed updates specific to your home. Visit [idealagent.com](https://idealagent.com/) to get connected with the top agent in your area. With our invite-only network, you are guaranteed to get the best results and save thousands in commissions. So don’t hesitate to sell this spring- we have your back!  
 
-![](images/b20485ef-8bf7-4fdd-8b7c-207b664b9854)
+![](../images/posts/b20485ef-8bf7-4fdd-8b7c-207b664b9854)

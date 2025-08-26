@@ -39,7 +39,7 @@ With that said, we could write for days about how great our commission structure
    
 “Our **IDEAL AGENT®** did a great job. He was patient and answered all of our questions. The pictures of the house were great!! Our house sold in a day. It was a smooth process from start to finish. My husband and I would highly recommend our **IDEAL AGENT®**!” – Kelly from Nebraska
 
-![](images/blog-shutterstock_1767864788-1-1024x551.jpg)
+![](../images/posts/blog-shutterstock_1767864788-1-1024x551.jpg)
 
 ### **Our Clients Highly Recommend Selling Your Home with Our Help**
 
@@ -53,7 +53,7 @@ With that said, we could write for days about how great our commission structure
    
 “Fantastic experience selling our home!!! With the current 'seller's market’, we decided to sell our home of 34 years. After contacting several well-known companies, all requiring 6% commission, we saw an advertisement for **[IDEAL AGENT®](https://idealagent.com/)**. We called their toll-free number and within minutes received a return phone call. She introduced herself as a Client Concierge with **[IDEAL AGENT®](https://idealagent.com/)**. From that moment through the sale of our property our Client Concierge was actively communicating with us and checking on the status of the sale of our property. She frequently inquired how we felt our agent was doing to which we always replied excellently. **[IDEAL AGENT®](https://idealagent.com/)** matching us with our agent was an excellent pairing. Our agent provided the needed experience, support staff, and guidance for our needs. We sold our home within two weeks of going live with our listing. We couldn't be happier with the efforts, professionalism, and dedication to the sale of our home.” – David from Pennsylvania
 
-![](images/blog-shutterstock_2018400356-2-1024x682.jpg)
+![](../images/posts/blog-shutterstock_2018400356-2-1024x682.jpg)
 
 ### **The Reviews that Highlight What to Expect**
 

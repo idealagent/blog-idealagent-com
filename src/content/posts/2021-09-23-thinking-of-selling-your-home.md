@@ -1,6 +1,6 @@
 ---
 title: "Thinking of Selling Your Home? So Were These Sellers from All Across the U.S.!"
-image: "/images/posts/testimonials.jpg"
+image: "../images/posts/testimonials.jpg"
 date: 2021-09-23
 categories: 
   - "testimonials"

@@ -14,7 +14,7 @@ Are you a first-time homebuyer asking yourself, “what is a home mortgage?” Y
   
 A potential buyer, or “would-be borrower” applies to one or more lenders. Each of the lenders will ask for evidence that the borrower would be able to repay the loan. A borrow can submit banking information from investment statements, recent tax returns, proof of employment, etc. Typically, this is when the lender will run a credit check on the borrower. Assuming that the application is approved the lender will present the borrower with a loan of a certain amount with a set interest rate. It’s important to remember that you can apply for a pre-approval before you find a home you are interested in, providing you with an understanding of what you should be shopping for based off of your pre-approval loan amount. [Investopedia](https://www.investopedia.com/terms/m/mortgage.asp) says, “Being pre-approved for a mortgage can give buyers an edge in a tight housing market because sellers will know that they have the money to back up their offer.” During your closing, this is when the borrower would make their first payment to the lender, the seller would transfer the rights of the home to the borrower and receive their selling price.
 
-![](images/shutterstock_84447226.jpg)
+![](../images/posts/shutterstock_84447226.jpg)
 
 ###   
 What is a Home Mortgage: Types of Mortgages
@@ -29,7 +29,7 @@ According to Investopedia, “Mortgages come in a variety of forms. The most com
    
 **[Reverse Mortgage](https://www.consumer.ftc.gov/articles/0192-reverse-mortgages):** As per the [Federal Trade Commission Consumer Information](https://www.consumer.ftc.gov/articles/0192-reverse-mortgages) Report “If you’re 62 or older – and want money to pay off your mortgage, supplement your income, or pay for healthcare expenses – you may consider a reverse mortgage. It allows you to convert part of the equity in your home into cash without having to sell your home or pay additional monthly bills. But take your time: a reverse mortgage can be complicated and might not be right for you. A reverse mortgage can use up the equity in your home, which means fewer assets for you and your heirs. If you do decide to look for one, review the different types of reverse mortgages, and comparison shop before you decide on a particular company.”
 
-![](images/shutterstock_1590760600.jpg)
+![](../images/posts/shutterstock_1590760600.jpg)
 
 ### What is a Home Mortgage: How Do You Get the Best Rate?
 

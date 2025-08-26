@@ -75,7 +75,7 @@ An agent can help you find suitable properties, negotiate prices, and provide in
 
 If you're looking to find fixer upper homes on multiple listing (MLS) sites like Zillow or Trulia, filters can help you identify suitable homes for purchasing as fixer-uppers. Try adjusting the price range, filtering by conditions and keywords like "needs TLC," and searching for older homes on the site.  
 
-![](images/image-2.jpeg)
+![](../images/posts/image-2.jpeg)
 
 ### Is it Worth Flipping?  
 
@@ -89,7 +89,7 @@ Energy efficiency is also something to consider — although many municipalities
 
 When you're weighing the benefits of renovating for an investment — some renovations add more value to a home than others. Here are the top five we recommend completing first:  
 
-![](images/image.jpeg)
+![](../images/posts/image.jpeg)
 
 ### **Kitchen Remodel** 
 
@@ -103,7 +103,7 @@ Upgrading bathrooms, especially the primary bathroom, can make a home more attra
 
 As mentioned above, energy efficiency upgrades are often a great investment and can come with financial incentives. Updating windows, HVAC systems, and water heaters or replacing old appliances with energy-efficient models are simple ways to upgrade quickly.  
 
-![](images/image-1.jpeg)
+![](../images/posts/image-1.jpeg)
 
 ### **Curb Appeal**  
 

@@ -13,25 +13,25 @@ Are you looking for festive ways to celebrate the holidays with friends and fami
 
 Does it get any more festive than holiday pajamas? A movie night at home during the holidays is the perfect time to ask your guests to wear their most festive pj’s! You could even have a vote for best pj’s, and the winner goes home with hot cocoa or cookie mix!
 
-![](images/shutterstock_1275231859.jpg)
+![](../images/posts/shutterstock_1275231859.jpg)
 
 ### **Snack Station**
 
 You can’t host the ultimate movie night at home without an epic snack station. Set up a designated buffet-style table where your guests can build their own bag of goodies before the movie starts. As far as snacks go, popcorn is a must, [HGTV](https://www.hgtv.com/lifestyle/entertaining/host-a-holiday-movie-night-pictures) suggests that you “Swap the artificial butter for fun new flavors, like peanut butter caramel and bacon-cheddar.” Maybe even some sweet caramel apple popcorn? Several grocery stores sell unique premade popcorn flavors, but you can also find recipes to make at home. Next up is candy, set out bowls of assorted candies your guests can either mix with their popcorn, like a movie-themed trail mix, or eat separately. To add an extra special touch, you can get themed goodie bags, from cute Christmas trees to snowflakes printed on each bag, the festive options are endless!
 
-![](images/shutterstock_1643352643.jpg)
+![](../images/posts/shutterstock_1643352643.jpg)
 
 ### **Signature Drink Bar**
 
 From some fresh apple cider or hot chocolate for the kids to a signature drink for the adults, adding a drink bar makes your movie night at home all the more special. [HGTV](https://www.hgtv.com/lifestyle/entertaining/host-a-holiday-movie-night-pictures) says, **“**For the adults at your gathering, a signature cocktail is a must.” They go on to describe a drink called “The Grinch” that includes champaign, ginger ale, bitters, and mint. A quick holiday drink search on Pinterest is sure to provide plenty of awesome drink recipes you could offer to your guests. Tip: make sure all the drinks are labeled so guests know which ones to grab or pour!
 
-![](images/shutterstock_1687071901.jpg)
+![](../images/posts/shutterstock_1687071901.jpg)
 
 ### Keep Things Cozy
 
 Make sure to have plenty of blankets and pillows around for guests to use while watching the movie. [HGTV](https://www.hgtv.com/lifestyle/entertaining/host-a-holiday-movie-night-pictures) suggests that you “Let guests cozy up during movie time. Place baskets of throws around the room, and deck out the sofa with comfy throw pillows. Need extra seating? Large floor pillows give some guests soft front-row seats.”
 
-![](images/shutterstock_1958467582-1.jpg)
+![](../images/posts/shutterstock_1958467582-1.jpg)
 
 ### Holiday Bingo
 

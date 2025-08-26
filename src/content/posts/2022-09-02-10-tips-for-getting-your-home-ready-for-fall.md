@@ -19,7 +19,7 @@ Cleaning your gutters before the weather turns should be at the top of your prio
 
 If your windows and doors are not sealed properly, your home could lose a lot of its heat to the cooler weather- which is not comfortable or cheap! One of the first steps to getting your home ready for the cold is to be mindful of any damage to windows and door frames and to check for drafts. The easiest way to do so is by running your hand by the frames to feel for cold spots. If you happen to find an air leak, there are many effective solutions such as weatherstripping, caulking, window inserts, and more.   
 
-![](images/Thermostat-1024x577.png)
+![](../images/posts/Thermostat-1024x577.png)
 
 ### ****3\. Reprogram your Thermostat****  
 
@@ -37,13 +37,13 @@ It is exceptionally important to detach your garden hoses and drain your outdoor
 
 When the windows are closed, the heater is on, and the apple cinnamon scented candles are lit, that is when your smoke and carbon monoxide detectors mean the most to you. Check your detectors and switch out the batteries this fall to keep them active and in great condition during the colder months. After you replace the batteries, press the test button to ensure the detectors are working properly.    
 
-![](images/Fireplace--1024x577.png)
+![](../images/posts/Fireplace--1024x577.png)
 
 ### ********7\. Ready your Fireplace and Chimney********   
 
 Is there anything more relaxing than cozying up next to a fireplace in your p.j.’s during those chilly fall and winter months? Not in our book! That’s why it’s necessary that your fireplace and chimney get a proper cleaning heading into the season. Doing so will avoid chimney fires, improve heating efficiency, and prevent toxins from entering your home. _You can also consider this your friendly reminder to stock up on firewood!_  
 
-![](images/Lawn1-1024x577.png)
+![](../images/posts/Lawn1-1024x577.png)
 
 ### **********8\. Prep your Lawn for Winter**********   
 

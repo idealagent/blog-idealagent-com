@@ -1,8 +1,8 @@
 ---
 title: "IDEAL AGENT® EXCEEDS FIRST-QUARTER 2022 EXPECTATIONS"
 date: 2022-04-06
-categories: 
-  -
+categories:
+  - "news"
 slug_category: "news"
 slug: "ideal-agent-first-quarter-2022"
 ---
@@ -26,7 +26,7 @@ Tampa-based [IDEAL AGENT®](http://idealagent.com/?source=pr), established in 20
 
 <figure>
 
-![](images/new.lphs1_.jpg)
+![](../images/posts/new.lphs1_.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ Lexi Plummer, VP of Brand & Marketing
 
 <figure>
 
-![](images/hs2.jpg)
+![](../images/posts/hs2.jpg)
 
 <figcaption>
 

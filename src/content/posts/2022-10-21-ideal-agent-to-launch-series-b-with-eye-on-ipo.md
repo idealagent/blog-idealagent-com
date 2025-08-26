@@ -28,7 +28,7 @@ Johnston founded Ideal Agent in 2016 after previously founding Home Discovery, a
 Trenam Law serves as Ideal Agent’s legal counsel.  
 by Rebecca Wenzel  
   
-![](images/logo.jpg)  
+![](../images/posts/logo.jpg)  
   
 The Acuris Group is a media company which provides the advisory, corporate and financial communities with forward-looking intelligence, analysis and data that you simply can't get anywhere else. [www.acuris.com](https://www.acuris.com)  
   

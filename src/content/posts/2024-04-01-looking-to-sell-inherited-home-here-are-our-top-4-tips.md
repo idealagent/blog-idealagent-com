@@ -23,7 +23,7 @@ Dealing with an inherited home can be emotionally taxing, especially if it is a 
 
 Setting the right price is critical when selling an inherited property. Your IDEAL AGENT® will provide a comparative market analysis to help you understand the market and set a competitive listing price. With the right pricing strategy, you can quickly attract serious buyers and sell the property.
 
-![two people go over a real estate contract on a wooden desk](images/Picture1.jpg)
+![two people go over a real estate contract on a wooden desk](../images/posts/Picture1.jpg)
 
 ### Legal Steps in Selling Inherited Property
 
@@ -85,7 +85,7 @@ When you inherit a property, you have a choice: sell or rent it out. Understandi
 
 Choosing between selling or renting your inherited property requires careful consideration of these factors in light of your circumstances and financial goals.
 
-## ![a person sits at a laptop looking at home listings ](images/Picture4-1.jpg)
+## ![a person sits at a laptop looking at home listings ](../images/posts/Picture4-1.jpg)
 
  
 
@@ -99,7 +99,7 @@ When it's time to sell your inherited home, effective marketing is critical to a
 **5\. Local Newspapers and Magazines:** While digital marketing is vital, traditional channels like local print media can still be very effective, especially in specific markets.  
 **6\. Networking with Local Agents:** IDEAL AGENT® can network with other agents who may have clients looking for a home like yours.
 
-![a larger suburban home with a sold sign in the front lawn](images/Picture5.jpg)
+![a larger suburban home with a sold sign in the front lawn](../images/posts/Picture5.jpg)
 
 ## Closing the Deal: Negotiation and Finalization
 

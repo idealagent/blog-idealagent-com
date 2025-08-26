@@ -8,7 +8,7 @@ tags:
   - "home-buying"
   - "home-selling"
 slug_category: "home-selling"
-slug: "what-does-contingency-mean-in-real-estate/"
+slug: "what-does-contingency-mean-in-real-estate"
 ---
 
 Navigating the complex terrain of real estate transactions can be challenging, particularly when contingencies are involved. As a home seller, it’s essential to understand the contingency definition in real estate and the ins and outs of these legal clauses to make informed decisions and optimize your home sale. In this article, we’ll explore real estate contingencies and how they can impact your home sale process.
@@ -23,7 +23,7 @@ The Oxford Dictionary defines contingency as “a future event or circumstance w
 
 The **contingency definition in a real estate contract** is a condition that must be fulfilled for the transaction to move forward. Consider it a safety net, ensuring specific criteria are met before the sale concludes.
 
-### ![Couple reviewing lawyer documents](images/Picture2-2.jpg)
+### ![Couple reviewing lawyer documents](../images/posts/Picture2-2.jpg)
 
 ### How Does a Contingent Offer Work?
 
@@ -69,7 +69,7 @@ In some cases, you might see "pending taking backups" or "pending continue to sh
 
 As a seller, understanding these terms is crucial as they indicate how far along in the selling process your property is, and they can also signal to potential buyers whether or not there is still an opportunity to make an offer on the property.
 
-![building inspectors reviewing newly built wall](images/Picture3-3.jpg)
+![building inspectors reviewing newly built wall](../images/posts/Picture3-3.jpg)
 
 ## **Types of Contingencies in Real Estate**
 
@@ -162,7 +162,7 @@ _If the Seller does not respond to the Buyer's notification of Title Defects wit
 
 _The failure of the Buyer to notify the Seller of any unacceptable Title Defects within the stipulated Title Review Period shall constitute acceptance of the title as-is, and this title contingency shall be deemed waived."_
 
-![](images/shutterstock_50097079.jpg)
+![](../images/posts/shutterstock_50097079.jpg)
 
 #### **5\. Home Sale Contingency:**
 

@@ -13,7 +13,7 @@ Simply put, traditionally the seller pays all of the commission fees associated 
    
  
 
-![](images/image-23.jpeg)
+![](../images/posts/image-23.jpeg)
 
 In contrast, every now and then commission fees are paid by the buyer, however, this is certainly not the norm. In those scenarios, it is agreed upon by the buyer and their agent upfront before they move forward with seeking out and purchasing a home. This may occur when the buyer is looking to purchase a property or home that isn’t listed on the Multiple Listing Service and isn’t already being listed by an agent. Gary Singer, a board-certified real estate lawyer, wrote the following for the [SunSentinel](https://www.sun-sentinel.com/real-estate/fl-bz-gary-singer-col-pay-agent-20170810-story.html), “While it is customary for the seller to pay the agent’s commission, sometimes the buyer will pay it instead. It all depends on what is voluntarily agreed to by the people involved. In the typical home sale for a property on the multiple listing service, the seller has hired an agent and agreed to pay a commission. That listing agent then offers half of the commission to any other agent who brings a buyer. Sometimes a buyer will agree to hire and pay a real estate agent, usually to find a property that is not listed on the MLS. Because the seller does not have an agent that he or she agreed to pay, there will be no listing commission to split, and the buyer has to pay the agent directly.”    
    

@@ -1,5 +1,5 @@
-import { glob } from "astro/loaders";
-import { defineCollection, z } from "astro:content";
+import { glob } from "astro/loaders"
+import { defineCollection, z } from "astro:content"
 
 // About collection schema
 const aboutCollection = defineCollection({
@@ -19,7 +19,7 @@ const aboutCollection = defineCollection({
       ),
     }),
   }),
-});
+})
 
 // Authors collection schema
 const authorsCollection = defineCollection({
@@ -37,7 +37,7 @@ const authorsCollection = defineCollection({
       })
       .optional(),
   }),
-});
+})
 
 // Posts collection schema
 const postsCollection = defineCollection({
@@ -52,8 +52,10 @@ const postsCollection = defineCollection({
     authors: z.array(z.string()).default(["Admin"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
+    slug_category: z.string(),
+    slug: z.string(),
   }),
-});
+})
 
 // Pages collection schema
 const pagesCollection = defineCollection({
@@ -66,7 +68,7 @@ const pagesCollection = defineCollection({
     layout: z.string().optional(),
     draft: z.boolean().optional(),
   }),
-});
+})
 
 // Export collections
 export const collections = {
@@ -74,4 +76,4 @@ export const collections = {
   about: aboutCollection,
   authors: authorsCollection,
   pages: pagesCollection,
-};
+}

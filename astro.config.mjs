@@ -9,6 +9,8 @@ import config from "./src/config/config.json"
 
 import vue from "@astrojs/vue"
 
+import cloudflare from "@astrojs/cloudflare";
+
 let highlighter
 async function getHighlighter() {
   if (!highlighter) {
@@ -25,6 +27,7 @@ export default defineConfig({
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
   integrations: [sitemap(), mdx(), vue()],
+
   markdown: {
     remarkPlugins: [
       remarkToc,
@@ -42,4 +45,6 @@ export default defineConfig({
     extendDefaultPlugins: true,
     highlighter: getHighlighter,
   },
+
+  adapter: cloudflare()
 })

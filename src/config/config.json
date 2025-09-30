@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "IDEAL AGENT Real Estate Blog",
-    "base_url": "https://blog.idealagent.com",
+    "base_url": "https://new-blog.idealagent.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",

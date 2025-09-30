@@ -12,7 +12,6 @@ export async function GET(context: APIContext) {
       return null
     }
   })
-  console.log(images)
   const items = posts.map((post) => ({
     title: post.data.title,
     pubDate: post.data.date,

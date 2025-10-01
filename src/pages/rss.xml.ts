@@ -5,18 +5,11 @@ import type { APIContext } from "astro"
 
 export async function GET(context: APIContext) {
   const posts = await getCollection("posts")
-  const images = posts.map(async (post) => {
-    if (post.data.image) {
-      return await getImage({ src: post.data.image })
-    } else {
-      return null
-    }
-  })
   const items = posts.map((post) => ({
     title: post.data.title,
     pubDate: post.data.date,
     description: post.data.categories.join(","),
-    link: `/blog/${post.id}/`,
+    link: `/${post.id}`,
     enclosure: {
       url: `${JSON.stringify(post.data.image?.src)}`,
       // url: `${post.data.image}`,

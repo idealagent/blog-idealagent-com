@@ -11,6 +11,8 @@ import vue from "@astrojs/vue"
 
 import cloudflare from "@astrojs/cloudflare"
 
+import partytown from "@astrojs/partytown";
+
 let highlighter
 async function getHighlighter() {
   if (!highlighter) {
@@ -28,7 +30,7 @@ export default defineConfig({
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   vite: { plugins: [tailwindcss()] },
-  integrations: [sitemap(), mdx(), vue()],
+  integrations: [sitemap(), mdx(), vue(), partytown()],
 
   markdown: {
     remarkPlugins: [

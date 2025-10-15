@@ -5,10 +5,18 @@ const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage;
 
-let pageList = [];
-for (let i = 1; i <= totalPages; i++) {
-  pageList.push(i);
+const visiblePages = new Set<number>()
+visiblePages.add(1)
+visiblePages.add(totalPages)
+
+const start = Math.max(2, currentPage - 2)
+const end = Math.min(totalPages - 1, currentPage + 2)
+
+for (let i = start; i <= end; i++) {
+  visiblePages.add(i)
 }
+
+const pageList = Array.from(visiblePages).sort((a, b) => a - b)
 ---
 
 {
@@ -70,7 +78,7 @@ for (let i = 1; i <= totalPages; i++) {
         ) : (
           <a
             href={
-              i === 0
+              pagination === 1
                 ? `${section ? "/" + section : "/"}`
                 : `${section ? "/" + section : ""}/page/${pagination}`
             }
